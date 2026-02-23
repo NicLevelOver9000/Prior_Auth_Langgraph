@@ -1,0 +1,116 @@
+{
+    "clinical_information": {
+        "lab_results": {
+            "CBC": {
+                "Hemoglobin": {
+                    "value": "9.0 g/dL",
+                    "status": "LOW"
+                },
+                "Hematocrit": {
+                    "value": "32%",
+                    "status": "LOW"
+                },
+                "Red Blood Cells (RBC)": {
+                    "value": "3.5 million/uL",
+                    "status": "LOW"
+                },
+                "Mean Corpuscular Volume (MCV)": {
+                    "value": "78 fL",
+                    "status": "LOW"
+                },
+                "Mean Corpuscular Hemoglobin (MCH)": {
+                    "value": "28 pg",
+                    "status": "NORMAL"
+                },
+                "Mean Corpuscular Hemoglobin Concentration (MCHC)": {
+                    "value": "34 g/dL",
+                    "status": "NORMAL"
+                },
+                "Platelets": {
+                    "value": "450,000 cells/uL",
+                    "status": "NORMAL"
+                },
+                "White Blood Cells (WBC)": {
+                    "value": "12,000 cells/uL",
+                    "status": "NORMAL"
+                },
+                "Bands (Immature Neutrophils)": {
+                    "value": "5%",
+                    "status": "NORMAL"
+                },
+                "Neutrophils": {
+                    "value": "75%",
+                    "status": "HIGH"
+                },
+                "Lymphocytes": {
+                    "value": "18%",
+                    "status": "LOW"
+                },
+                "Monocytes": {
+                    "value": "4%",
+                    "status": "NORMAL"
+                },
+                "Eosinophils": {
+                    "value": "1%",
+                    "status": "NORMAL"
+                },
+                "Basophils": {
+                    "value": "0%",
+                    "status": "NORMAL"
+                }
+            },
+            "CMP": {
+                "Glucose": {
+                    "value": "90 mg/dL",
+                    "status": "NORMAL"
+                },
+                "BUN": {
+                    "value": "15 mg/dL",
+                    "status": "NORMAL"
+                },
+                "Creatinine": {
+                    "value": "0.5 mg/dL",
+                    "status": "NORMAL"
+                },
+                "Sodium": {
+                    "value": "138 mEq/L",
+                    "status": "NORMAL"
+                },
+                "Potassium": {
+                    "value": "4.0 mEq/L",
+                    "status": "NORMAL"
+                },
+                "Chloride": {
+                    "value": "102 mEq/L",
+                    "status": "NORMAL"
+                },
+                "Bicarbonate": {
+                    "value": "24 mEq/L",
+                    "status": "NORMAL"
+                },
+                "Calcium": {
+                    "value": "9.2 mg/dL",
+                    "status": "NORMAL"
+                }
+            },
+            "ESR": {
+                "value": "30 mm/h",
+                "status": "HIGH"
+            },
+            "CRP": {
+                "value": "25 mg/L",
+                "status": "HIGH"
+            },
+            "Fecal_markers": {
+                "Fecal Calprotectin": {
+                    "value": "150 ug/g",
+                    "status": "HIGH"
+                },
+                "Fecal Occult Blood": {
+                    "value": "Positive",
+                    "status": "ABNORMAL"
+                }
+            }
+        }
+    }
+}

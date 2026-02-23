@@ -1,0 +1,17 @@
+{
+    "clinical_information": {
+        "imaging_results": {
+            "EGD": {
+                "esophagus": "Normal appearance",
+                "stomach": "Gastritis, erythema present",
+                "duodenum": "Mild to moderate duodenitis with edema"
+            },
+            "colonoscopy": {
+                "ileum": "Patchy inflammation with areas of erythema and ulceration. Segmental strictures observed.",
+                "colon": "Diffuse inflammation with cobblestone appearance. Multiple aphthous ulcers noted throughout the colon with areas of normal mucosa between inflamed portions. Granularity and friability present.",
+                "rectum": "Mild inflammation; no significant ulceration."
+            },
+            "MRI": "pending"
+        }
+    }
+}

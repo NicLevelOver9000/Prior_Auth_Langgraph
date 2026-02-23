@@ -1,0 +1,10 @@
+{
+    "clinical_information": {
+        "diagnosis": "Crohn's disease",
+        "icd_10_code": "K50.90",
+        "prior_treatments_and_results": "Current steroid therapy with Methylprednisone 40mg daily; patient continues to have frequent blood in stools and anemia as well as abdominal discomfort.",
+        "symptom_severity_and_impact": "Patient has abdominal pain, hematochezia, pallor, and dizziness, indicating significant symptom severity.",
+        "prognosis_and_risk_if_not_approved": "Patient is symptomatic with anemia and may require transfusion; risk of worsening symptoms and complications if biologic therapy is not initiated.",
+        "clinical_rationale_for_urgency": "Patient will likely need to initiate biologic therapy given severity of symptoms despite current therapy."
+    }
+}
