@@ -1,0 +1,72 @@
+{
+    "input": {
+        "patient_information": {
+            "patient_name": "Sarah Sample",
+            "patient_date_of_birth": "10-19-2014",
+            "patient_id": "4567890",
+            "patient_address": "25 W Randolph St, Chicago, IL 60601",
+            "patient_phone_number": "555-123-4567"
+        },
+        "physician_information": {
+            "physician_name": "Shiva Pedram, MD",
+            "specialty": "Pediatric Gastroenterology",
+            "physician_contact": {
+                "office_phone": "555-991-2750",
+                "fax": "555-786-5643",
+                "office_address": "5721 S Maryland Ave, Chicago, IL 60637"
+            }
+        },
+        "clinical_information": {
+            "diagnosis": "Inflammatory bowel disease, likely Crohn's disease (new diagnosis) with hematochezia, abdominal pain, and anemia due to blood loss",
+            "icd_10_code": "K50.90",
+            "prior_treatments_and_results": "Currently on systemic corticosteroid therapy (methylprednisolone 40 mg daily) but continues to have frequent bloody stools, abdominal discomfort, and anemia. Hemoglobin 9.0 g/dL today; patient symptomatic with pallor and dizziness and is being transfused 15 mL/kg pRBC. Gastroenterology consulted; plan for MRI enterography and initiation of biologic therapy given steroid-refractory active disease.",
+            "specific_drugs_taken_and_failures": null,
+            "alternative_drugs_required": null,
+            "lab_results": null,
+            "lab_summary": "Key abnormalities: microcytic anemia (Hgb 9.0 g/dL, Hct 32%, RBC 3.5 M/uL, MCV 78 fL) suggesting iron‑deficiency or chronic blood loss; thrombocytosis (platelets 450,000/uL) likely reactive; neutrophil predominance with relative lymphopenia (neutrophils 75%, lymphocytes 18%) with an absolute neutrophilia (~9,000/µL). Markers of systemic and intestinal inflammation are elevated (ESR 30 mm/h, CRP 25 mg/L, fecal calprotectin 150 µg/g) and fecal occult blood is positive, supporting active GI inflammation with bleeding. Basic metabolic panel and liver tests are within normal limits. Overall impression: inflammatory process in the gut with associated occult GI blood loss causing microcytic anemia and reactive thrombocytosis; further evaluation with iron studies and GI workup (eg, endoscopic evaluation) is indicated.",
+            "imaging_results": "EGD: biopsies obtained and pending. Esophagus: normal appearance. Stomach: gastritis with erythema. Duodenum: mild to moderate duodenitis with edema. Colonoscopy: biopsies obtained and pending. Ileum: patchy inflammation with areas of erythema and ulceration; segmental strictures observed. Colon: diffuse inflammation with cobblestone appearance; multiple aphthous ulcers throughout with areas of normal mucosa between inflamed portions (skip lesions); granularity and friability present. Rectum: mild inflammation without significant ulceration. MRI enterography: pending.",
+            "symptom_severity_and_impact": "Multiple episodes (≈3 overnight) of abdominal cramping and bowel movements with visible hematochezia, poor sleep, pallor, fatigue, dizziness; vital signs show mild tachycardia. Ongoing significant blood loss leading to symptomatic anemia (Hgb 9.0) requiring transfusion.",
+            "prognosis_and_risk_if_not_approved": "If biologic therapy is not initiated, patient is at risk for continued GI blood loss and worsening or recurrent symptomatic anemia with need for further transfusions, ongoing symptomatic disease, potential hospitalization, and additional IBD-related complications (disease progression, growth/nutritional impact).",
+            "clinical_rationale_for_urgency": "Active, ongoing hematochezia and symptomatic anemia despite high-dose steroids; Hgb 9.0 with current need for acute transfusion. Given persistent bleeding and steroid-refractory disease, prompt initiation of biologic therapy is indicated to control inflammation and prevent further blood loss and complications.",
+            "treatment_request": {
+                "name_of_medication_or_procedure": "Adalimumab 40mg",
+                "code_of_medication_or_procedure": null,
+                "dosage": "Induction: 160 mg (four 40 mg injections on day 1), then 80 mg (two 40 mg injections) at week 2; maintenance: 40 mg every other week. Quantity: 16 injections.",
+                "duration": "6 months",
+                "rationale": "Diagnosis: Crohn's Disease. Patient has evidence of new diagnosis, is currently hospitalized due to a flare and is not improving on standard therapy (methylprednisone 10/10/24 - 10/19/24) with continued bloody stools and abdominal pain.",
+                "presumed_eligibility": null
+            }
+        }
+    },
+    "retrieved_policies": [
+        {
+            "content": "tion . A biosimilar of the \nrequested biologic does not count . Refer to Appendix  for examples of biologics \nused for Crohn’s disease . A trial of mesalamine does not count as a systemic \nagent for Crohn’s disease.  \nc) Patient has enterocutaneous (perianal or abdominal) or rectovaginal fistulas; \nOR 3 Pages - Cigna National Formulary Coverage - Policy: Inflammatory Conditions – Adalimumab Products Prior \nAuthorization Policy  \n d) Patient  had ileocolonic resection ( to reduce the chance of Crohn’s disease \nrecurrence); AND  \niii. The medication  is prescribed by or in consultation with a gastroenterologist.  \nB) Patient  is Currently Receiving an Adalimumab Product . Approve  for 1 year if the \npatient meets BOTH of the following  (i and ii): \ni. Patient has been established on therapy  for at least 6 months; AND  \nNote:  A patient who has received < 6 months of therapy or who is restarting \ntherapy with an adalimumab product is reviewed under criterion A (Initial \nTherapy).  \nii. Patient meets at least ONE of the following (a or b): \na) When assessed by at least one objective measure, patient experienced a \nbeneficial clinical response from baseline (prior to initiating an adal",
+            "source": "001.pdf"
+        },
+        {
+            "content": "sure, patient experienced a \nbeneficial clinical response from baseline (prior to initiating an adalimumab \nproduct ); OR  \nNote:  Examples of objective measures include fecal markers (e.g., fecal \nlactoferrin, fecal calprotectin), serum markers (e.g., C -reactive protein), \nimaging studies (magnetic resonance enterography [MRE], computed \ntomography enterography [CTE]), endoscopic ass essment, and/or reduced \ndose of corticosteroids.  \nb) Compared with baseline (prior to initiating an adalimumab product ), patient \nexperienced an improvement in at least one symptom, such as decreased \npain, fatigue, stool frequency, and/or blood in stool . \n \n3. Juve nile Idiopathic Arthritis (JIA) [ or juvenile rheumatoid arthritis ] \n{regardless of type of onset }. Approve for the duration noted if the patient meets \nONE of the following (A or B): \nNote:  This includes a patient with juvenile spondyloarthropathy/active sacroiliac \narthritis.  \nA) Initial Therapy . Approve for 6 months  if the patient meets ALL of the following (i , ii, \nand iii): \ni. Patient is ≥ 2 years of age; AND  \nii. Patient meets ONE of the following  (a, b, c , or d): \na) Patient has tried one other systemic therapy  for ",
+            "source": "001.pdf"
+        },
+        {
+            "content": " when assessed by at least \none objective measure; OR  \nNote:  Examples of objective measures  of disease activity include Clinical \nDisease Activity Index (CDAI), Disease Activity Score (DAS) 28 using \nerythrocyte sedimentation rate or C -reactive protein, Patient Activity Scale \n(PAS) -II, Rapid Assessment of Patient Index Data 3 (RAPID -3), and/or \nSimplified Disease Activity Index (SDAI).  \nb) Patient experienced an improvement in at least one symptom, such as \ndecreased joint pain, morning stiffness, or fatigue; improved function or \nactivities of daily living; or decreased soft tissue swelling in joints or tendon \nsheaths.  \n \n8. Ulcerative Colitis . Approve for the duration noted if the patient meets ONE of the \nfollowing (A or B): \nA) Initial Therapy . Approve for 6 months  if the patient meets  ALL of  the following (i , ii, \nand iii): \ni. Patient is ≥ 5 years of age; AND  \nii. Patient meets ON E of the following (a  or b): \na) Patient has tried one systemic therapy ; OR \nNote:  Examples include 6 -mercaptopurine, azathioprine, cyclosporine, \ntacrolimus, or a corticosteroid such as prednisone or methylprednisolone . A \ntrial of one biologic other than the requested medicat",
+            "source": "001.pdf"
+        },
+        {
+            "content": " an improvement in at least one symptom, such as decreased \npain or stiffness, or improvement in function or activities of daily living.  \n \n2. Crohn’s Disease . Approve for the duration noted if the patient meets ONE of the \nfollowing  (A or B): \nA) Initial Therapy . Approve for 6 months  if the patient mee ts ALL of the following (i, ii, \nand iii): \ni. Patient is ≥ 6 years of age; AND  \nii. Patient meets ONE of  the following (a, b , c, or d): \na) Patient has tried or is currently taking corticosteroids, or corticosteroids are \ncontraindicated in this patient ; OR \nNote:  Examples of corticosteroids are prednisone  or methylprednisolone . \nb) Patient has tried one other conventional systemic therapy  for Crohn’s disease ; \nOR \nNote:  Examples of conventional systemic therapy for Crohn’s disease include \nazathioprine, 6 -mercaptopurine, or methotrexate . An exception to the \nrequirement for a trial of or contraindication to steroids or a trial of one other \nconventional systemic agent can be made if the patient has already tried at \nleast one biologic other than the requested medication . A biosimilar of the \nrequested biologic does not count . Refer to Appendix  for examples of b",
+            "source": "001.pdf"
+        },
+        {
+            "content": "iterion A (Initial \nTherapy).  \nii. When assessed by at least one objective measure, patient experienced a \nbeneficial clinical response from baseline (prior to initiating an adalimumab \nproduct ); AND  \nNote:  Examples of objective measures are dependent upon organ involvement \nbut may include best -corrected visual acuity (if ophthalmic manifestations); \nserum markers (e.g., C -reactive protein, erythrocyte sedimentation rate); or \nulcer depth, number, and/or lesion size.  \niii. Compared with baseline (prior to initiating an adalimumab product ), patient \nexperienced an improvement in at least one symptom, such as decreased pain or \nimproved visual acuity (if ophthalmic manifestations).  \n \n11.  Pyoderma G angrenosum . Approve for the duration noted if the patient meets ONE of \nthe following (A or B): \nA) Initial Therapy . Approve for 4 months if t he patient meets ALL of the following (i , ii, \nand iii): \ni. Patient is > 18 years of age; AND  \nii. Patient meets ON E of the following (a  or b): \na) Patient has tried one systemic corticosteroid ; OR \nNote:  An example is prednisone.  \nb) Patient has tried  one other immunosuppressant for at least 2 months or was \nintolerant to one",
+            "source": "001.pdf"
+        }
+    ],
+    "decision": {
+        "decision": "APPROVED",
+        "confidence": 0.95,
+        "reason": "Patient is 11 years old (≥6 years), is currently receiving corticosteroid therapy (methylprednisolone), and the medication is prescribed by a gastroenterologist (Pediatric Gastroenterology). These meet the Initial Therapy criteria for Crohn's Disease which allow approval for 6 months. The requested duration (6 months) matches the policy allowance.",
+        "policy_references": [
+            "001.pdf"
+        ],
+        "matched_policy_text": "2. Crohn\u0019s Disease . Approve for the duration noted if the patient meets ONE of the \nfollowing (A or B): \nA) Initial Therapy . Approve for 6 months if the patient meets ALL of the following (i, ii, \nand iii): \ni. Patient is \u00026gt;= 6 years of age; AND \nii. Patient meets ONE of the following (a, b , c, or d): \na) Patient has tried or is currently taking corticosteroids, or corticosteroids are \ncontraindicated in this patient ; OR \nNote: Examples of corticosteroids are prednisone or methylprednisolone . \n\niii. The medication is prescribed by or in consultation with a gastroenterologist."
+    }
+}

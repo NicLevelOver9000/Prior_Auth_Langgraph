@@ -1,0 +1,132 @@
+{
+    "clinical_information": {
+        "lab_results": {
+            "CBC": {
+                "Hemoglobin": {
+                    "value": "9.0 g/dL",
+                    "status": "LOW"
+                },
+                "Hematocrit": {
+                    "value": "32%",
+                    "status": "LOW"
+                },
+                "RBC": {
+                    "value": "3.5 million/uL",
+                    "status": "LOW"
+                },
+                "MCV": {
+                    "value": "78 fL",
+                    "status": "LOW"
+                },
+                "MCH": {
+                    "value": "28 pg",
+                    "status": "NORMAL"
+                },
+                "MCHC": {
+                    "value": "34 g/dL",
+                    "status": "NORMAL"
+                },
+                "Platelets": {
+                    "value": "450000 cells/uL",
+                    "status": "HIGH"
+                },
+                "WBC": {
+                    "value": "12000 cells/uL",
+                    "status": "NORMAL"
+                },
+                "Bands": {
+                    "value": "5%",
+                    "status": "NORMAL"
+                },
+                "Neutrophils": {
+                    "value": "75%",
+                    "status": "HIGH"
+                },
+                "Lymphocytes": {
+                    "value": "18%",
+                    "status": "LOW"
+                },
+                "Monocytes": {
+                    "value": "4%",
+                    "status": "NORMAL"
+                },
+                "Eosinophils": {
+                    "value": "1%",
+                    "status": "NORMAL"
+                },
+                "Basophils": {
+                    "value": "0%",
+                    "status": "NORMAL"
+                }
+            },
+            "CMP": {
+                "Glucose": {
+                    "value": "90 mg/dL",
+                    "status": "NORMAL"
+                },
+                "BUN": {
+                    "value": "15 mg/dL",
+                    "status": "NORMAL"
+                },
+                "Creatinine": {
+                    "value": "0.5 mg/dL",
+                    "status": "NORMAL"
+                },
+                "Sodium": {
+                    "value": "138 mEq/L",
+                    "status": "NORMAL"
+                },
+                "Potassium": {
+                    "value": "4.0 mEq/L",
+                    "status": "NORMAL"
+                },
+                "Chloride": {
+                    "value": "102 mEq/L",
+                    "status": "NORMAL"
+                },
+                "Bicarbonate": {
+                    "value": "24 mEq/L",
+                    "status": "NORMAL"
+                },
+                "Calcium": {
+                    "value": "9.2 mg/dL",
+                    "status": "NORMAL"
+                },
+                "AST": {
+                    "value": "25 U/L",
+                    "status": "NORMAL"
+                },
+                "ALT": {
+                    "value": "22 U/L",
+                    "status": "NORMAL"
+                },
+                "ALP": {
+                    "value": "120 U/L",
+                    "status": "NORMAL"
+                },
+                "Total_Bilirubin": {
+                    "value": "0.6 mg/dL",
+                    "status": "NORMAL"
+                }
+            },
+            "ESR": {
+                "value": "30 mm/h",
+                "status": "HIGH"
+            },
+            "CRP": {
+                "value": "25 mg/L",
+                "status": "HIGH"
+            },
+            "Fecal_markers": {
+                "Fecal_Calprotectin": {
+                    "value": "150 ug/g",
+                    "status": "HIGH"
+                },
+                "Fecal_Occult_Blood": {
+                    "value": "Positive",
+                    "status": "ABNORMAL"
+                }
+            }
+        }
+    }
+}

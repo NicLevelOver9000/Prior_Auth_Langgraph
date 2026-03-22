@@ -35,6 +35,9 @@ Return STRICT JSON in this format:
   }}
 }}
 
+If an ICD-10 code is not explicitly present but the diagnosis is clear,
+infer the most appropriate ICD-10 code.
+If uncertain, return null.
 If a field is not present, return null for that field.
 
 Document:

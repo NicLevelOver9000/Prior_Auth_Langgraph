@@ -22,7 +22,20 @@
         "specific_drugs_taken_and_failures": null,
         "alternative_drugs_required": null,
         "lab_results": null,
-        "imaging_results": null,
+        "lab_summary": "The lab results indicate significant abnormalities including low hemoglobin (9.0 g/dL), low hematocrit (32%), low red blood cells (3.5 million/uL), and low mean corpuscular volume (78 fL), suggesting anemia. Additionally, there is a high neutrophil percentage (75%) and elevated inflammatory markers with a high ESR (30 mm/h) and CRP (25 mg/L). Fecal markers show a high fecal calprotectin (150 ug/g) and positive fecal occult blood, indicating possible gastrointestinal inflammation or bleeding.",
+        "imaging_results": {
+            "EGD": {
+                "esophagus": "Normal appearance",
+                "stomach": "Gastritis, erythema present",
+                "duodenum": "Mild to moderate duodenitis with edema"
+            },
+            "colonoscopy": {
+                "ileum": "Patchy inflammation with areas of erythema and ulceration. Segmental strictures observed.",
+                "colon": "Diffuse inflammation with cobblestone appearance. Multiple aphthous ulcers noted throughout the colon with areas of normal mucosa between inflamed portions. Granularity and friability present.",
+                "rectum": "Mild inflammation; no significant ulceration."
+            },
+            "MRI": "pending"
+        },
         "symptom_severity_and_impact": "Patient has abdominal pain, hematochezia, pallor, and dizziness, indicating significant symptom severity.",
         "prognosis_and_risk_if_not_approved": "Patient is symptomatic with anemia and may require transfusion; risk of worsening symptoms and complications if biologic therapy is not initiated.",
         "clinical_rationale_for_urgency": "Patient will likely need to initiate biologic therapy given severity of symptoms despite current therapy.",

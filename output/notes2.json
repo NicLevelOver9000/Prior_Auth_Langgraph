@@ -1,0 +1,10 @@
+{
+    "clinical_information": {
+        "diagnosis": "Inflammatory bowel disease, likely Crohn's disease with ongoing hematochezia and anemia",
+        "icd_10_code": "K50.90",
+        "prior_treatments_and_results": "Currently treated with systemic corticosteroids (methylprednisolone 40 mg daily) with inadequate response, as patient continues to have frequent bloody stools, abdominal pain, and anemia.",
+        "symptom_severity_and_impact": "Moderate to severe symptoms including recurrent hematochezia, abdominal cramping, fatigue, pallor, dizziness, anemia (Hgb 9.0), poor sleep, and mild tachycardia, impacting overall well-being and requiring hospitalization and blood transfusion.",
+        "prognosis_and_risk_if_not_approved": "Without escalation to biologic therapy, the patient is at risk for persistent active disease, ongoing blood loss, worsening anemia, need for repeated transfusions, disease progression, and potential complications of uncontrolled Crohn's disease.",
+        "clinical_rationale_for_urgency": "Despite appropriate steroid therapy, the patient has ongoing active disease with significant bleeding and symptomatic anemia requiring transfusion, indicating steroid-refractory disease and need for prompt initiation of biologic therapy to control inflammation and prevent further deterioration."
+    }
+}

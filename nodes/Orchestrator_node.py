@@ -1,5 +1,6 @@
 import json
 import os
+
 from schemas.prior_auth_master_schema import PriorAuthMasterSchema
 from llm.llm_client import LLMClient
 
@@ -8,9 +9,9 @@ from llm.llm_client import LLMClient
 # Deep Merge Utility
 # ----------------------------
 def deep_merge(master: dict, new_data: dict) -> dict:
+
     for key, value in new_data.items():
 
-        # Skip null values
         if value is None:
             continue
 
@@ -26,6 +27,7 @@ def deep_merge(master: dict, new_data: dict) -> dict:
 # LLM Lab Summary Generator
 # ----------------------------
 def generate_lab_summary(lab_results: dict) -> dict:
+
     if not lab_results:
         return {}
 
@@ -55,45 +57,46 @@ Lab Results:
 
 
 # ----------------------------
-# Main Aggregation Logic
+# Orchestrator Node
 # ----------------------------
-if __name__ == "__main__":
+def orchestrator_node(state):
 
-    print("Starting aggregation process...")
+    print("\nStarting aggregation process...")
+    print("STATE RECEIVED BY ORCHESTRATOR:")
+    print(state)
 
     master_dict = PriorAuthMasterSchema().model_dump()
 
-    partial_files = [
-        "output/form.json",
-        "output/labs.json",
-        "output/imaging.json",
-        "output/notes.json",
+    partial_results = [
+        state.get("form_data"),
+        state.get("labs_data"),
+        state.get("imaging_data"),
+        state.get("notes_data")
     ]
 
-    for file_path in partial_files:
-        if os.path.exists(file_path):
-            print(f"Merging: {file_path}")
-            with open(file_path, "r") as f:
-                partial_data = json.load(f)
-                master_dict = deep_merge(master_dict, partial_data)
-        else:
-            print(f"Skipped (not found): {file_path}")
+    for partial in partial_results:
+
+        if partial:
+            print("Merging partial result...")
+            master_dict = deep_merge(master_dict, partial)
 
     # ----------------------------
-    # Generate Lab Summary + Remove Raw Labs
+    # Generate Lab Summary
     # ----------------------------
     lab_results = master_dict["clinical_information"].get("lab_results")
 
     if lab_results:
+
         print("Generating lab summary via LLM...")
+
         summary_json = generate_lab_summary(lab_results)
+
         master_dict = deep_merge(master_dict, summary_json)
 
-        # Remove detailed structured labs from final output
         master_dict["clinical_information"].pop("lab_results", None)
 
     # ----------------------------
-    # Validate Final Schema
+    # Validate Schema
     # ----------------------------
     final_object = PriorAuthMasterSchema(**master_dict)
 
@@ -103,3 +106,6 @@ if __name__ == "__main__":
         json.dump(final_object.model_dump(), f, indent=4)
 
     print("Final Prior Auth JSON created successfully.")
+    print("Final Prior Auth JSON: ", final_object.model_dump())
+
+    return {"final_prior_auth": final_object.model_dump()}

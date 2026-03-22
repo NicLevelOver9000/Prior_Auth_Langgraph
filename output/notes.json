@@ -1,10 +1,10 @@
 {
     "clinical_information": {
-        "diagnosis": "Crohn's disease",
-        "icd_10_code": "K50.90",
-        "prior_treatments_and_results": "Current steroid therapy with Methylprednisone 40mg daily; patient continues to have frequent blood in stools and anemia as well as abdominal discomfort.",
-        "symptom_severity_and_impact": "Patient has abdominal pain, hematochezia, pallor, and dizziness, indicating significant symptom severity.",
-        "prognosis_and_risk_if_not_approved": "Patient is symptomatic with anemia and may require transfusion; risk of worsening symptoms and complications if biologic therapy is not initiated.",
-        "clinical_rationale_for_urgency": "Patient will likely need to initiate biologic therapy given severity of symptoms despite current therapy."
+        "diagnosis": "Inflammatory bowel disease, likely Crohn's disease (new diagnosis) with hematochezia, abdominal pain, and anemia due to blood loss",
+        "icd_10_code": "K50.9",
+        "prior_treatments_and_results": "No prior IBD-specific medical therapies documented. Plan states patient will likely need to initiate biologic therapy given severity. Acute management today includes planned transfusion of packed RBCs (15 mL/kg) for symptomatic anemia (Hgb 9.0) and trending CBC daily.",
+        "symptom_severity_and_impact": "Frequent visible blood in stools (multiple episodes overnight), recurrent abdominal cramping, fatigue, pallor, dizziness, poor sleep. Hemoglobin 9.0 with symptomatic anemia and mild tachycardia; patient appears pale, tired and required transfusion \u2014 significant impact on wellbeing and daily function.",
+        "prognosis_and_risk_if_not_approved": "Without timely effective therapy (e.g., biologic), ongoing active Crohn's disease may lead to continued gastrointestinal bleeding and worsening anemia requiring repeated transfusions, progression of intestinal inflammation with risk of complications (growth/nutritional compromise in a child, strictures, fistulae), and ongoing symptomatic morbidity.",
+        "clinical_rationale_for_urgency": "Patient has active, symptomatic disease with ongoing hematochezia and symptomatic anemia (Hgb 9.0) requiring immediate transfusion today. Given continued bleeding and significant symptoms, prompt initiation of effective therapy (biologic) is indicated to control disease and prevent further blood loss and complications."
     }
 }

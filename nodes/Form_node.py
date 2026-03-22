@@ -1,11 +1,13 @@
+
 import json
 import os
 from ocr.azure_document_ocr import AzureDocumentOCR
 from extractors.form_extractor import FormExtractor
 
-if __name__ == "__main__":
 
-    print("Running Patient Form Extractor...")
+def form_node(state):
+    print("Inside Form Node")
+    print("Current State in Form Node: ", state)
 
     ocr = AzureDocumentOCR()
     text = ocr.extract_text("input_pdfs/form.pdf")
@@ -18,4 +20,6 @@ if __name__ == "__main__":
     with open("output/form.json", "w") as f:
         json.dump(form_data, f, indent=4)
 
-    print("Form JSON saved.")
+    print("Form node Output: ", form_data)
+
+    return {"form_data": form_data}

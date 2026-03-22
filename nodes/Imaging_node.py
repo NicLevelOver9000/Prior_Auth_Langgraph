@@ -3,10 +3,10 @@ import os
 from ocr.azure_document_ocr import AzureDocumentOCR
 from extractors.imaging_extractor import ImagingExtractor
 
-if __name__ == "__main__":
 
-    print("Running Imaging Extractor...")
-
+def imaging_node(state):
+    print("Inside Imaging Node")
+    print("Current State in Imaging Node: ", state)
     ocr = AzureDocumentOCR()
     text = ocr.extract_text("input_pdfs/imaging.pdf")
 
@@ -18,4 +18,6 @@ if __name__ == "__main__":
     with open("output/imaging.json", "w") as f:
         json.dump(imaging_data, f, indent=4)
 
-    print("Imaging JSON saved.")
+    print("Imaging node Output: ", imaging_data)
+
+    return {"imaging_data": imaging_data}

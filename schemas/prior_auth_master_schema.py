@@ -55,7 +55,7 @@ class ClinicalInformation(BaseModel):
     alternative_drugs_required: Optional[str] = None
     lab_results: Optional[dict] = None
     lab_summary: Optional[str] = None
-    imaging_results: Optional[dict] = None
+    imaging_results: Optional[str] = None
     symptom_severity_and_impact: Optional[str] = None
     prognosis_and_risk_if_not_approved: Optional[str] = None
     clinical_rationale_for_urgency: Optional[str] = None
