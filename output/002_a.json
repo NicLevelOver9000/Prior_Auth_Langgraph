@@ -1,0 +1,39 @@
+{
+    "patient_information": {
+        "patient_name": "Maxie Millionaire",
+        "patient_date_of_birth": "06-15-22",
+        "patient_id": "7656432",
+        "patient_address": "14126 Garnett St, Boston, MA 02108",
+        "patient_phone_number": "555-987-2254"
+    },
+    "physician_information": {
+        "physician_name": "Dr. Lennox",
+        "specialty": "Pediatrics",
+        "physician_contact": {
+            "office_phone": "555-345-7865",
+            "fax": "555-345-7866",
+            "office_address": "84 North Avenue, Boston, MA 02108"
+        }
+    },
+    "clinical_information": {
+        "diagnosis": "Infantile spasms and Lennox-Gastaut syndrome (2-year-old male) with worsening seizure frequency and new atonic seizures",
+        "icd_10_code": null,
+        "prior_treatments_and_results": "Patient is adherent to current antiseizure medications lamotrigine and topiramate. Despite these therapies and trials of several AEDs (not otherwise specified), the patient has experienced increased seizure frequency and development of new atonic seizures; overnight video EEG captured several seizures.",
+        "specific_drugs_taken_and_failures": null,
+        "alternative_drugs_required": null,
+        "lab_results": null,
+        "lab_summary": "Key abnormalities: indices consistent with a microcytic, hypochromic picture \u2014 MCV 72 fL (microcytosis) and low MCH 23 pg; hemoglobin 11.5 g/dL is borderline low suggesting mild anemia. The remainder of the CBC (WBC, differential, platelets) and the comprehensive metabolic panel (electrolytes, renal and liver markers, albumin, total protein, calcium) are within reference limits. Differential diagnosis includes iron deficiency anemia and thalassemia trait; consider iron studies (ferritin, serum iron, TIBC), reticulocyte count and peripheral smear, and hemoglobin electrophoresis as clinically indicated.",
+        "imaging_results": "EEG: Standard 10-20 montage, ~30-minute recording with 5 minutes hyperventilation and photic stimulation. Background predominantly mixed theta and delta slowing. Slow spike-and-wave discharges at 1.5\u20132.5 Hz, maximal in frontal and central regions. Widespread background slowing with occasional bursts of rhythmic delta activity. Several brief generalized events characterized by multifocal spikes followed by slow waves consistent with infantile spasms. Occasional generalized slow-wave discharges suggestive of atonic seizures (pattern seen with Lennox-Gastaut syndrome). Mild photoparoxysmal response with increased slow-wave activity during photic stimulation. Some muscle artifact during movement. Impression: EEG demonstrates features of Lennox-Gastaut syndrome with slow spike-and-wave discharges and generalized background slowing. MRI Brain w/o contrast: Brain size and shape appropriate for age. Mild cortical atrophy, most pronounced in frontal and temporal lobes. Gyri and sulci configuration normal; no significant cortical dysplasia identified. No demyelination or significant white matter abnormality. Basal ganglia and thalami normal in size and morphology. Ventricles symmetric and within normal limits for age. Cerebellum without atrophy or structural abnormality. No focal mass, vascular malformation, or other structural lesion identified. Impression: Mild cortical atrophy; otherwise unremarkable MRI brain.",
+        "symptom_severity_and_impact": "Patient had multiple seizures overnight including new atonic (drop) seizures and now appears more sleepy/fatigued. Seizure semiology is more varied and frequency has increased; exam shows mild upper-body hypotonia and hyperreflexia. Uncontrolled seizures are causing acute functional impairment and increased risk for injury.",
+        "prognosis_and_risk_if_not_approved": "If additional therapy (Epidiolex) is not initiated, ongoing uncontrolled and worsening seizures may result in further neurologic injury, increased risk of injurious drop attacks, developmental regression, and higher risk of severe complications such as status epilepticus.",
+        "clinical_rationale_for_urgency": "Urgent initiation of Epidiolex is planned because the patient's seizures are worsening in frequency and have changed in semiology (new atonic seizures) despite trials of multiple AEDs; overnight video EEG confirmed ongoing seizures and the patient is more somnolent, prompting prompt treatment escalation per pediatric neurology.",
+        "treatment_request": {
+            "name_of_medication_or_procedure": "Epidiolex",
+            "code_of_medication_or_procedure": null,
+            "dosage": "100 mg/mL; Take 2.5mg/kg/day divided in two doses for one week, then increase to 5mg/kg/day divided in two doses.",
+            "duration": null,
+            "rationale": "Diagnosis: Lennox-Gustaut Syndrome. Prior medication trials/failures or intolerance: Valproic acid (May 1 - June 1, 2024; 4 weeks), Lamotrigine (May 14, 2024 - current), Rufinamide (June 1 - August 1, 2024; 8 weeks), Topiramate (August 1, 2024 - current). See supporting documents for medical notes.",
+            "presumed_eligibility": null
+        }
+    }
+}

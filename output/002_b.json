@@ -1,0 +1,39 @@
+{
+    "patient_information": {
+        "patient_name": "Maxie Millionaire",
+        "patient_date_of_birth": "06-15-22",
+        "patient_id": "7656432",
+        "patient_address": "14126 Garnett St, Boston, MA 02108",
+        "patient_phone_number": "555-987-2254"
+    },
+    "physician_information": {
+        "physician_name": "Dr. Lennox",
+        "specialty": "Pediatrics",
+        "physician_contact": {
+            "office_phone": "555-345-7865",
+            "fax": "555-345-7866",
+            "office_address": "84 North Avenue, Boston, MA 02108"
+        }
+    },
+    "clinical_information": {
+        "diagnosis": "Infantile spasms (West syndrome), with new atonic seizure activity and concern for evolution to Lennox-Gastaut syndrome",
+        "icd_10_code": "G40.82",
+        "prior_treatments_and_results": "Patient is adherent to vigabatrin and a ketogenic diet. Despite these therapies, the patient has had increased spasm frequency overnight and development of new atonic seizure semiology (sudden limp episodes with head drop); two spasms were witnessed on exam. Current therapies are inadequate to control seizures.",
+        "specific_drugs_taken_and_failures": null,
+        "alternative_drugs_required": null,
+        "lab_results": null,
+        "lab_summary": "Overall CBC and CMP are within reference ranges. The only consistent abnormality is a slightly low MCH (23 pg; ref 24\u201330) with a borderline low MCV (72 fL; ref 70\u201386) while hemoglobin (11.5 g/dL) and hematocrit are in the reported normal ranges \u2014 a pattern suggesting mild microcytosis/hypochromia. This can be seen with early iron deficiency, thalassemia trait, or other microcytic processes. All electrolytes, renal and liver function tests, albumin, and proteins are normal. Consider targeted follow-up such as iron studies (ferritin, serum iron, TIBC), peripheral smear, reticulocyte count, and hemoglobin electrophoresis if clinically indicated.",
+        "imaging_results": "EEG (30-minute recording, awake): Background rhythm shows mixed theta and delta activity with predominant generalized slowing; sleep cycles not achieved. Interictal: slow spike-and-wave discharges at 1.5\u20132.5 Hz, predominantly frontal and central; widespread background slowing with occasional bursts of rhythmic delta. Ictal: several brief generalized seizure episodes characterized by multifocal spikes followed by slow waves, correlating with reported infantile spasms. Occasional generalized slow wave discharges suggestive of atonic seizures. Photostimulation produced a mild photoparoxysmal response with increased slow wave activity but no definite photically induced seizures. Some muscle artifact during movement. Impression: EEG features consistent with Lennox-Gastaut syndrome with evidence of infantile spasms and possible atonic seizures.",
+        "symptom_severity_and_impact": "Increased seizure frequency and new, more varied seizure types (atonic episodes with head drops and continued infantile spasms). Patient appears fatigued; two spasms were witnessed during exam. Presentation required hospital admission and pediatric neurology consultation.",
+        "prognosis_and_risk_if_not_approved": "Clinical course is concerning for progression to Lennox-Gastaut syndrome if seizures remain uncontrolled. Continued uncontrolled and more varied seizures pose risk of further neurologic compromise and developmental impact.",
+        "clinical_rationale_for_urgency": "Seizures have worsened in frequency and semiology despite current therapy, with new atonic events and persistent infantile spasms; patient is admitted and pediatric neurology recommends initiating Epidiolex urgently while further diagnostic evaluation (24-hour video EEG, possible MRI) is performed.",
+        "treatment_request": {
+            "name_of_medication_or_procedure": "Epidiolex",
+            "code_of_medication_or_procedure": null,
+            "dosage": "100 mg/mL; Take 2.5mg/kg/day divided in two doses for one week, then increase to 5mg/kg/day divided in two doses.",
+            "duration": null,
+            "rationale": "Diagnosis: Lennox-Gastaut Syndrome. Current therapy with Vigabatrin and ketogenic diet is insufficient.",
+            "presumed_eligibility": null
+        }
+    }
+}

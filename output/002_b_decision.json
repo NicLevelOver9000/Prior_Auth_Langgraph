@@ -1,0 +1,72 @@
+{
+    "input": {
+        "patient_information": {
+            "patient_name": "Maxie Millionaire",
+            "patient_date_of_birth": "06-15-22",
+            "patient_id": "7656432",
+            "patient_address": "14126 Garnett St, Boston, MA 02108",
+            "patient_phone_number": "555-987-2254"
+        },
+        "physician_information": {
+            "physician_name": "Dr. Lennox",
+            "specialty": "Pediatrics",
+            "physician_contact": {
+                "office_phone": "555-345-7865",
+                "fax": "555-345-7866",
+                "office_address": "84 North Avenue, Boston, MA 02108"
+            }
+        },
+        "clinical_information": {
+            "diagnosis": "Infantile spasms with new atonic seizure activity; concern for progression to Lennox-Gastaut syndrome",
+            "icd_10_code": "G40.82",
+            "prior_treatments_and_results": "Patient is adherent to current therapy with vigabatrin and a ketogenic diet, but continues to have increased seizure/spasm frequency and has developed new seizure semiology (episodes of sudden limpness and head drop). Two spasms were witnessed on exam consistent with typical infantile spasm semiology.",
+            "specific_drugs_taken_and_failures": null,
+            "alternative_drugs_required": null,
+            "lab_results": null,
+            "lab_summary": "Key abnormalities indicate a mild microcytic, hypochromic picture: MCV 72 fL (low) and MCH 23 pg (low) with hemoglobin 11.5 g/dL and hematocrit 34% (mildly reduced). This pattern suggests iron deficiency anemia or thalassemia trait—consider ferritin, serum iron/TIBC, reticulocyte count, peripheral smear, and hemoglobin electrophoresis as appropriate. White blood cell count, differential, and platelets are within normal limits. Comprehensive metabolic panel is unremarkable (electrolytes, renal and hepatic indices normal). Alkaline phosphatase is 150 U/L (near or slightly above some reference ranges) — interpret against the lab’s reference range and clinical context. ESR/CRP and fecal markers were not provided.",
+            "imaging_results": "EEG performed with standard 10-20 montage, ~30 minutes, including 5 minutes hyperventilation and photic stimulation. Background: mixed theta and delta activity with predominant generalized slowing; sleep cycles not achieved. Interictal: slow spike-and-wave discharges at 1.5–2.5 Hz predominantly in frontal and central regions; widespread background slowing with occasional bursts of rhythmic delta. Ictal: several brief generalized seizure episodes with multifocal spikes followed by slow waves (correlating with reported infantile spasms); occasional generalized slow wave discharges suggestive of atonic seizures. Photostimulation: mild photoparoxysmal response with increased slow wave activity but no clear seizure. Artifacts: muscle artifact during periods of movement/agitation. Impression: EEG findings consistent with Lennox-Gastaut syndrome, demonstrating slow spike-and-wave discharges, generalized background slowing, evidence of infantile spasms and possible atonic seizures.",
+            "symptom_severity_and_impact": "Increased seizure/spasm frequency (worse overnight) and emergence of new atonic seizure type; patient appears fatigued, has mild upper-body hypotonia and hyperreflexia. Seizures are more varied in semiology and not controlled on current regimen, prompting hospital admission.",
+            "prognosis_and_risk_if_not_approved": "Clinical presentation is concerning for development/progression to Lennox-Gastaut syndrome if seizures remain uncontrolled; ongoing uncontrolled seizures place the patient at risk for worsening seizure burden and associated neurological morbidity.",
+            "clinical_rationale_for_urgency": "Seizures have increased in frequency and changed in semiology with new atonic events despite adherence to vigabatrin and ketogenic diet; inpatient admission and prompt initiation of additional therapy (Epidiolex) are planned to address worsening and potentially progressive epilepsy.",
+            "treatment_request": {
+                "name_of_medication_or_procedure": "Epidiolex",
+                "code_of_medication_or_procedure": null,
+                "dosage": "100 mg/mL; Take 2.5 mg/kg/day divided in two doses for one week, then increase to 5 mg/kg/day divided in two doses",
+                "duration": null,
+                "rationale": "Diagnosis: Lennox-Gastaut Syndrome. Patient is being treated with ketogenic diet and Vigabatrin, but therapy is insufficient.",
+                "presumed_eligibility": null
+            }
+        }
+    },
+    "retrieved_policies": [
+        {
+            "content": " \nprolonged convulsions, reduction in overall seizure frequency, and minimization of \ntreatment side effects.4,5 \n \nLennox -Gastaut syndrome, a severe epileptic and developmental encephalopathy, is \nassociated with a high rate of morbidity and mortality .6,7  Lennox -Gastaut syndrome   6 Pages  - Cigna National Formulary Coverage  - Policy: Antiseizure Medications – Epidiolex Prior Authorization \nPolicy  \n most often begins between 3 and 5 years of age .6-9  Affected children experience \nseveral different types of seizures, most commonly atonic seizures (sudden loss of \nmuscle tone and limpn ess) and  tonic seizures .6,9  The three main forms of treatment \nof Lennox -Gastaut syndrome  are ASMs, dietary therapy (typically the ketogenic diet), \nand device/surgery (e .g., vagus n erve stimulation, corpus callos tomy) .9  None of the \ntherapies are effective in all cases of Lennox -Gastaut syndrome  and the disorder has \nproven pa rticularly resistan t to most therapeutic options.  \n \nTuberous sclerosis complex is a rare, genetic disease that causes non -cancerous \n(benign) tumors to grow in the brain and on other vital organs such as the kidneys, \nheart, eyes, lungs, and skin.10  It c",
+            "source": "002.pdf"
+        },
+        {
+            "content": "ment -resistant \nepilepsy and were on stable doses of ASMs for 4 weeks before starting Epidiolex as \nadd-on therapy . The initial dose of Epidiolex was 2 to 10 mg/kg/day (taken as two \ndivided doses) and gradually titrated until intolerance or to a maximum dose of 25 \nmg/kg/day or 50 mg/kg/day, depending upon treatment site . Of those enrolled in \nthe expanded access program, 892 patients were evalu ated and included in the safety \nanalysis set and 840 patients were included in the efficacy analysis set . Through 192 \nweeks, the m edian percentage reduction in seizure frequency across visit windows \nranged from 50% to 67% for convulsive seizures and 46% to 66% for total seizures . \nIn a cohort of 132 patients (72 children, 60 adults) with treatment -resistant epilepsy, \nbi-weekly seizure frequency decreased from a mean of 144.4 at entry to 52.2 at 12 \nweeks (P = 0.01) and remained stable thereafter.15  Of note, patients with a diagnosis \nof Lennox -Gastaut syndrome  or Dravet syndrome  were initially excluded because of \npreferential enrollment into the randomized clinical trials; once these trials were \nclosed for enrollment, patients with these syndromes were also enrolled.  In a",
+            "source": "002.pdf"
+        },
+        {
+            "content": "tment -Refractory Seizures /Epilepsy  [specific rare conditions]  (i.e., \nCDKL5 deficiency disorder; Dup15q, Aicardi, or Doose syndromes; febrile \ninfection ‐related epilepsy syndromes; Sturge ‐Weber syndrome; lissencephaly; \ncortical malformation/dysplasia; and epilepsy with myoclonic absence s). Approve \nif the patient meets ONE of the following (A or B): \nA) Initial Therapy . Approve for 1 year if the patient meets the following (i, ii, and \niii): \ni. Patient is ≥ 1 year of age; AND  \nii. Patient has tried or is concomitantly receiving  at least two other antiseizure \nmedications ; AND  \nNote:  Examples of other antiseizure medications  include  valproic acid, \nlamotrigine, topiramate, clonazepam, levetiracetam, zonisamide, Banzel , \nfelbamate, clobazam, Fycompa, vigabatrin . \niii. The medication is prescribed by or in consultation with a neurologist.  \nB) Patient is Currently Receiving Epidiolex . Approve for 1 year if the patient is \nresponding to therapy ( e.g., reduced seizure severity, frequency, and/or \nduration ) as determined by the prescrib er. \n \n \nCONDITIONS NOT COVERED  \n  \n• Epidiolex® (cannabidiol oral solution – Greenwich Biosciences)  \nis(are) considered experime",
+            "source": "002.pdf"
+        },
+        {
+            "content": "or oral \nsuspension) , and Fintepla® (fenfluramine oral solution) .1,11,17  An expert panel \nconsiders v alproic acid and clobazam to be the first -line treatment for Dravet \nsyndrome.4  If seizure control is suboptimal, Diacomit and topiramate are second -\nline treatment . Ketogenic diet is moderately effective and can also be considered \nsecond -line. The Dravet Foundation states that Diacomit , Epidiolex , and Fintepla  are \nconsidered first -line agents for the treatment of Dravet syndrome.2  If control is still \ninadequate, other therapies to consider are clonazepam, levetiracetam, and \nzonisamide.2,4  Sodium channel blockers (e.g., carbamazepine, oxcarbazepine, \nlamotrigine, and phenytoin ) can worsen seizures in Dravet syndrome . Additionally, \nvigabatrin and tiagabine may increase the frequency of myoclonic seizures and should \nbe avoided.  \n \nLennox -Gastaut Syndrome  \nCurrently, the FDA -approved drugs for this condition  are Epidiolex, Fintepla, \nfelbamate , Banzel® (rufinamide tablet, oral suspension), lamotrigine , topiramate, and \nclobazam .12  Despite the lack of level I or level II evidence, valproic acid remains a \nmainstay in treatment.8,9,13  If valproic acid doe",
+            "source": "002.pdf"
+        },
+        {
+            "content": "ce these trials were \nclosed for enrollment, patients with these syndromes were also enrolled.  In a \nseparate cohort of patients with CDKL5 deficiency disorde r and Aicardi, Doose, and \nDup15q syndromes (n = 46), the percent change in median convulsive seizure \nfrequency decreased from baseline to Week 12 by 51.4% and by 59.1% at Wee k \n48.16  There was a significant difference between the percent changes in monthly \nconvulsive seizure frequency during baseline and Week 12 (P = 0.00001), with no \ndifference in seizure percent change between Weeks 12 and 48.  Of the 55 patients \nin the safety grou p, 27% of patients withdrew by Week 144 due to adverse effects \n(n = 4), lack of efficacy (n = 9), withdrawn consent (n = 1), and lost to follow -up (n \n= 1). \n 6 Pages  - Cigna National Formulary Coverage  - Policy: Antiseizure Medications – Epidiolex Prior Authorization \nPolicy  \n Guidelines/Recommendations  \nDravet Syndrome  \nAt this time, there are three  drugs approved for the treatment of seizures associated \nwith Dravet syndrome:  Epidiolex , Diacomit® (stiripentol capsules, powder for oral \nsuspension) , and Fintepla® (fenfluramine oral solution) .1,11,17  An expert panel \nconside",
+            "source": "002.pdf"
+        }
+    ],
+    "decision": {
+        "decision": "NEED_MORE_INFO",
+        "confidence": 0.82,
+        "reason": "Policy requires either (A) initial-therapy criteria (patient ≥1 year, trial of or concomitant use of at least two other antiseizure medications, and prescribed by or in consultation with a neurologist) OR (B) current receipt of Epidiolex with documented response. The patient is ≥1 year old but the chart documents only one antiseizure medication (vigabatrin) plus ketogenic diet (diet does not satisfy the policy requirement for two other antiseizure medications) and the prescriber is a pediatrician with no documentation of neurologist prescription or consultation. No documentation that the patient is currently receiving Epidiolex. Therefore additional information is required: (1) documentation of trials of at least two other antiseizure medications (or confirmation of concomitant use of two other ASMs), and (2) documentation that Epidiolex is being prescribed by or in consultation with a neurologist (or that the patient is already receiving Epidiolex and showing response).",
+        "policy_references": [
+            "002.pdf"
+        ],
+        "matched_policy_text": "tment -Refractory Seizures /Epilepsy  [specific rare conditions]  (i.e., \nCDKL5 deficiency disorder; Dup15q, Aicardi, or Doose syndromes; febrile \ninfection \trelated epilepsy syndromes; Sturge \tWeber syndrome; lissencephaly; \ncortical malformation/dysplasia; and epilepsy with myoclonic absence s). Approve \nif the patient meets ONE of the following (A or B): \nA) Initial Therapy . Approve for 1 year if the patient meets the following (i, ii, and \niii): \ni. Patient is \u000265 1 year of age; AND  \nii. Patient has tried or is concomitantly receiving  at least two other antiseizure \nmedications ; AND  \nNote:  Examples of other antiseizure medications  include  valproic acid, \nlamotrigine, topiramate, clonazepam, levetiracetam, zonisamide, Banzel , \nfelbamate, clobazam, Fycompa, vigabatrin . \niii. The medication is prescribed by or in consultation with a neurologist.  \nB) Patient is Currently Receiving Epidiolex . Approve for 1 year if the patient is \nresponding to therapy ( e.g., reduced seizure severity, frequency, and/or \nduration ) as determined by the prescrib er."
+    }
+}

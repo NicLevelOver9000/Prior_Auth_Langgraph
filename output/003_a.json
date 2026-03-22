@@ -1,0 +1,39 @@
+{
+    "patient_information": {
+        "patient_name": "Lucas Little",
+        "patient_date_of_birth": "07/30/2017",
+        "patient_id": "345987",
+        "patient_address": "28 Dearborn St, Chicago, IL 60602",
+        "patient_phone_number": "555-360-8746"
+    },
+    "physician_information": {
+        "physician_name": "Dr. Oncoso",
+        "specialty": "Pediatric Hematology and Oncology",
+        "physician_contact": {
+            "office_phone": "555-324-7878",
+            "fax": "555-324-7877",
+            "office_address": "27 W State St, Chicago, IL 60601"
+        }
+    },
+    "clinical_information": {
+        "diagnosis": "Philadelphia chromosome-negative B-cell precursor acute lymphoblastic leukemia (B-ALL), minimal residual disease positive (MRD+)",
+        "icd_10_code": "C91.0",
+        "prior_treatments_and_results": "Induction (4/1/24\u20134/29/24): vincristine (weekly), dexamethasone (daily x28 days), L-asparaginase (alternate days), daunorubicin (single dose wk1). Consolidation (5/6/24\u20137/1/24): high\u2011dose methotrexate (weekly), mercaptopurine (daily), vincristine (biweekly), cyclophosphamide (week 3), doxorubicin (final week). Maintenance started 7/8/24: methotrexate (weekly), mercaptopurine (daily), vincristine (every 4 weeks), intrathecal methotrexate (first dose 10/4/24). Bone marrow 3/29/24: 85% lymphoblasts at diagnosis. Repeat bone marrow 10/4/24: morphological remission with <5% blasts but persistent MRD by flow cytometry at 0.1% leukemic cells.",
+        "specific_drugs_taken_and_failures": null,
+        "alternative_drugs_required": null,
+        "lab_results": null,
+        "lab_summary": "CBC: overall within reference ranges except for mild basophilia (2%, reference 0\u20131%). Bone marrow: 2024-03-29 marrow was hypercellular (~90%) with 85% lymphoblasts confirming B\u2011cell precursor ALL (Philadelphia chromosome\u2013negative). 2024-10-04 marrow remains hypercellular (~90%) but shows morphologic remission with blasts <5%; however minimal residual disease (MRD) is positive with 0.1% leukemic cells. Interpretation: patient achieved morphological remission but has persistent MRD, which represents residual B-ALL and an increased risk of relapse and typically warrants closer monitoring and consideration of additional or alternative therapy despite otherwise largely normal peripheral counts.",
+        "imaging_results": null,
+        "symptom_severity_and_impact": "Patient is overall clinically well with only mild fatigue and decreased energy reported by parents; afebrile and well appearing with normal vital signs and no other systemic symptoms reported.",
+        "prognosis_and_risk_if_not_approved": "Persistent MRD (0.1%) after consolidation confers a high risk of relapse and poorer long-term outcomes. Without timely MRD-directed therapy (e.g., blinatumomab), the patient is at increased risk of progression to overt leukemic relapse, likely need for more intensive salvage treatment and/or hematopoietic stem cell transplantation, and increased morbidity and mortality.",
+        "clinical_rationale_for_urgency": "MRD positivity after consolidation indicates residual disease despite standard therapy and is time-sensitive; prompt eradication of MRD is indicated to reduce relapse risk. Blinatumomab is an approved MRD-directed therapy for pediatric B-ALL and early initiation is clinically indicated to attempt MRD clearance and prevent progression to overt relapse.",
+        "treatment_request": {
+            "name_of_medication_or_procedure": "Blincyto (Blinatumomab)",
+            "code_of_medication_or_procedure": null,
+            "dosage": "28mcg/day",
+            "duration": "Induction cycle 1: Days 1-28: 28 mcg/day; Duration of therapy: Based on clinical response",
+            "rationale": "Treatment for B-cell acute lymphoblastic leukemia (ALL). Patient has received 1 standard induction and consolidation cycle and is now in maintenance phase. See attached clinical documentation, laboratory results and pathology reports.",
+            "presumed_eligibility": null
+        }
+    }
+}

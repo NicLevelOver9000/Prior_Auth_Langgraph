@@ -1,0 +1,39 @@
+{
+    "patient_information": {
+        "patient_name": "Emily Jones",
+        "patient_date_of_birth": "8-27-2016",
+        "patient_id": "1234567",
+        "patient_address": "45 E Parkway Ave, New York, NY 21022",
+        "patient_phone_number": "555-876-3423"
+    },
+    "physician_information": {
+        "physician_name": "Michelle King",
+        "specialty": "Allergy and immunology",
+        "physician_contact": {
+            "office_phone": "555-645-8796",
+            "fax": "555-645-8799",
+            "office_address": "36 E Ridgeview St, New York, NY 21023"
+        }
+    },
+    "clinical_information": {
+        "diagnosis": "Moderate to severe atopic dermatitis (atopic eczema) in an 8-year-old female (comorbid mild intermittent asthma).",
+        "icd_10_code": "L20.9",
+        "prior_treatments_and_results": "Topical triamcinolone cream and pimecrolimus up to twice daily plus regular emollient use (Aquaphor) for ~5 weeks without significant relief. Symptoms persist with pruritic dry patches, excoriation and occasional bleeding when scratched.",
+        "specific_drugs_taken_and_failures": null,
+        "alternative_drugs_required": null,
+        "lab_results": null,
+        "lab_summary": null,
+        "imaging_results": null,
+        "symptom_severity_and_impact": "SCORAD 35 (moderate to severe) with >10% body surface area involved. Erythematous, pruritic plaques on flexural areas and face. Pruritus interferes with sleep and causes excoriations/occasional bleeding.",
+        "prognosis_and_risk_if_not_approved": "Continued refractory atopic dermatitis with persistent pruritus, sleep disturbance, ongoing skin excoriation and bleeding, increased risk of secondary skin infection and sustained decreased quality of life if systemic therapy is not initiated.",
+        "clinical_rationale_for_urgency": "Patient has moderate-severe disease (SCORAD 35, >10% BSA) that failed adequate topical therapy over 5 weeks; provider recommends initiating systemic therapy (dupilumab) for better symptom control to prevent ongoing morbidity.",
+        "treatment_request": {
+            "name_of_medication_or_procedure": "Dupilumab",
+            "code_of_medication_or_procedure": null,
+            "dosage": "300mg initial dose (divided as two 150mg injections), followed by 300mg every 2 weeks",
+            "duration": null,
+            "rationale": "Severe atopic dermatitis; inadequate response to triamcinolone 0.5% ointment (5 week trial, continues) and pimecrolimus 1% cream (5 week trial, continues)",
+            "presumed_eligibility": null
+        }
+    }
+}

@@ -137,7 +137,7 @@ Policy Chunks:
 # ----------------------------
 def run_policy_engine():
 
-    with open("output/final_prior_auth_reject.json", "r") as f:
+    with open("output/final_prior_auth.json", "r") as f:
         final_json = json.load(f)
 
     # 🔥 Better query

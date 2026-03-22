@@ -1,0 +1,72 @@
+{
+    "input": {
+        "patient_information": {
+            "patient_name": "Lucas Little",
+            "patient_date_of_birth": "07/30/2017",
+            "patient_id": "345987",
+            "patient_address": "28 Dearborn St, Chicago, IL 60601",
+            "patient_phone_number": "555-360-8746"
+        },
+        "physician_information": {
+            "physician_name": "Dr. Oncoso",
+            "specialty": "Pediatric Hematology and Oncology",
+            "physician_contact": {
+                "office_phone": "555-324-7878",
+                "fax": "555-324-7877",
+                "office_address": "27 W State St, Chicago, IL 60602"
+            }
+        },
+        "clinical_information": {
+            "diagnosis": "Philadelphia chromosome-positive B-cell precursor acute lymphoblastic leukemia (Ph+ B-ALL), relapsed/refractory",
+            "icd_10_code": "C91.0",
+            "prior_treatments_and_results": "Induction (4/1/24-4/29/24): vincristine weekly, dexamethasone daily x28 days, L-asparaginase alternate days, single dose daunorubicin week 1, imatinib daily. Consolidation (5/6/24-7/1/24): high-dose methotrexate weekly, mercaptopurine daily, vincristine biweekly, cyclophosphamide week 3, doxorubicin final week, imatinib continued. Maintenance started 7/8/24: weekly methotrexate, daily mercaptopurine, vincristine every 4 weeks, imatinib daily; intrathecal methotrexate planned for 10/4/24. Bone marrow 3/29/24 showed 85% lymphoblasts at diagnosis. Repeat bone marrow 10/4/24 after consolidation shows >90% blasts indicating treatment failure/relapsed or refractory disease.",
+            "specific_drugs_taken_and_failures": null,
+            "alternative_drugs_required": null,
+            "lab_results": null,
+            "lab_summary": "The most important abnormality is the bone marrow aspirate showing >90% blasts, which is markedly abnormal and meets criteria for acute leukemia (WHO threshold ≥20% blasts). The peripheral CBC values provided are mostly within reference ranges (WBC, differential percentages, hemoglobin, hematocrit, platelets normal). There is a mild basophilia (basophils 2%, reference 0–1%), which can be seen with certain myeloproliferative disorders or in some leukemias. Overall this pattern is highly suspicious for an acute leukemic process despite a relatively unremarkable peripheral CBC. Urgent hematology/oncology evaluation is indicated with prompt flow cytometry (marrow and/or peripheral blood), cytogenetic and molecular testing, peripheral smear review, and baseline chemistry/coagulation studies (CMP, uric acid, LDH, coagulation) to guide diagnosis and initial management (including tumor lysis precautions and supportive care).",
+            "imaging_results": null,
+            "symptom_severity_and_impact": "Patient is a 7-year-old male who is overall well-appearing with mild fatigue and decreased energy; no recent fevers or other systemic symptoms reported. Despite relatively mild symptoms, marrow disease burden is very high (>90% blasts).",
+            "prognosis_and_risk_if_not_approved": "Relapsed/refractory Ph+ B-ALL with >90% marrow blasts carries high risk of rapid clinical deterioration including progressive marrow failure (severe cytopenias), life-threatening infection and bleeding, potential CNS or extramedullary spread, and poor overall survival without prompt effective salvage therapy. Delay in effective therapy may preclude curative options such as hematopoietic stem cell transplant.",
+            "clinical_rationale_for_urgency": "Repeat marrow on 10/4/24 demonstrates >90% blasts despite standard induction/consolidation and ongoing imatinib, confirming relapsed/refractory disease. Immediate initiation of an effective salvage agent (requested blinatumomab) is needed to reduce tumor burden, prevent rapid progression/complications, and allow for bridging to potential curative therapy (e.g., transplant).",
+            "treatment_request": {
+                "name_of_medication_or_procedure": "Blincyto (Blinatumomab)",
+                "code_of_medication_or_procedure": null,
+                "dosage": "28mcg/day",
+                "duration": "Induction cycle 1 (Days 1-28); duration based on clinical response",
+                "rationale": "Diagnosis of B-cell acute lymphoblastic leukemia (ALL). Patient has received 1 standard induction and consolidation cycle and is now in maintenance phase; request for Blincyto as indicated.",
+                "presumed_eligibility": null
+            }
+        }
+    },
+    "retrieved_policies": [
+        {
+            "content": "ults based \non this pivotal trial.  \n• Relapsed or refractory B -cell precursor ALL  \no In 2017, blinatumomab’s labeled use was expanded from treatment of Ph - relapsed/refractory \nB-ALL to treatment of Ph+  disease based on a single- arm, open label study (ALCANTARAA) \nshowing complete remission (CR) , or CR with partial hematologic recovery , after disease \nprogression on at least one second-  or thid- generation TKI. FDA approved s econd - and third-\ngeneration TKIs for Ph+ ALL in adults include Sprycel and Iclusig. NCCN recommended \n(category 2A) TKIs for Ph+ ALL in adults and adolescents/young adults include Sprycel, \nIclusig, T asigna and Bosulif.  \n CLINICAL POLICY  \nBlinatumomab  \n \n Page 3 of 4 \nV. Dosage and Administration  \nIndication  Dosing Regimen  Maximum Dose  \nB-ALL \n(MRD+ in \nremission)  Treatment course: 1 cycle of Blincyto IV for induction followed by \nup to 3 additional cycles for consolidation.  \n• Patients ≥ 45 kg receive a fixed dose  \no Induction cycle 1  \n Days 1 -28: 28 mcg/day  \n Days 29 -42: 14- day treatment -free inter val \no Consolidation cycles 2- 4 \n Days 1 -28: 28 mcg/day  \n Days 29 -42: 14- day treatment -free interval  \n• Patients < 45 kg ba",
+            "source": "003.pdf"
+        },
+        {
+            "content": " Pharmacology [database online]. Tampa, F L: Gold Standard, Inc.; 2018. Available at \nhttp://www.clinicalpharmacology -ip.com/.  \n5. Gökbuget N, Dombret H, Bonifacio M, et al. Blinatumomab for minimal residual disease in adults with \nB-precursor acute lymphoblastic leukemia. Blood 2018; doi: https://doi.org/10.1182/blood- 2017- 08-\n798322 . \n6. Martinelli G, Boissel N, Chevallier  P, et al. Complete hematologic and molecular response in adult \npatients with relapsed/refractory Philadelphia chromosome– positive B -precursor acute lymphoblastic \nleukemia following treatment with blinatumomab: results from a phase II, single- arm, multicenter \nstudy. J Clin Oncol. 2017 Jun 1; 35(16):1795- 1802. doi: 10.1200/JCO.2016.69.3531. Epub 2017 Mar \n29. \n7. Kim DY, Joo YD, Lim SN, et al. Nilotinib combined with multiagent chemotherapy for newly diagnosed Philadelphia -positive acute lymphoblastic leukemia. B lood 2015; 126: 746- 756. \n8. Gambacorti -Passerini C, Kantarjian HM, Kim DW, et al. Longterm efficacy and safety of bosutinib in \npatients with advanced leukemia following resistance/ intolerance to imatinib and other tyrosine \nkinase inhibitors. Am J Hematol 2015; 90:755- 768. \n \nReviews,",
+            "source": "003.pdf"
+        },
+        {
+            "content": " \n Days 1 -28: 28 mcg/day  \n Days 29 -42: 14- day treatment -free interval  \n• Patients < 45 kg based on body surface area (BSA)  \no Induction cycle 1  \n Days 1 -7: 5 mcg/m2/day  \n Days 8 -28: 15 mcg/m2/day  \n Days 29 -42: 14- day treatment -free interval  \no Consolidation cycles 2- 4 \n Days 1 -28: 15 mcg/m2/day  \nDays 29 -42: 14 -day treatment -free interval  28 mcg/day  \nB-ALL \n(relapsed or \nrefractory)  Treatment course: 2 cycles of Blincyto IV for induction followed \nby 3 cycles for consolidation and up to 4 cycles of continued \ntherapy.  \n• Patients ≥ 45 kg receive a fixed dose  \no Induction cycle 1  \n Days 1 -7: 9 mcg/day  \n Days 8 -28: 28 mcg/day  \n Days 29 -42: 14- day treatment -free interval  \no Induction cycle 2  \n Days 1 -28: 28 mcg/day  \n Days 29 -42: 14- day treatment -free interval  \no Consolidation cycles 3 -5 \n Days 1 -28: 28 mcg/day  \n Days 29 -42: 14- day treatment -free interval  \no Continued therapy cycles 6 -9 \n Days 1 -28: 28 mcg/day  \n Days 29 -84: 56- day treatment -free interval  \n• Patients < 45 kg based on body surface area (BSA)  \no Induction cycle 1  \n Days 1 -7: 5 mcg/m2/day  \n Days 8 -28: 15 mcg/m2/day  \n Days 29 -42: 14- day treatm",
+            "source": "003.pdf"
+        },
+        {
+            "content": " \n Page 1 of 4 \nClinical Policy: Blinatumomab (Blincyto)  \nReference N umber: ERX.SPA. 241 \nEffective Date: 09 .01.18 \nLast Review Date: 08.18  Revision Log  \n \nSee Important Reminder  at the end of this policy for important regulatory and legal information.  \n \nDescription \nBlinatumomab (Blincyto®) is a bispecific CD19- directed CD3 T -cell engager that binds to CD19  \n(expressed on cells of B -lineage origin) and CD3 (expressed on T cells).  \n \nFDA Approved Indication(s) \nBlincyto is indicated for :  \n• MRD -positive B -cell precursor ALL  \no Treatment of B -cell precursor acute lymphoblastic leukemia (ALL) in first or second complete \nremission with minimal residual disease (MRD) greater than or equal to 0.1% in adults and \nchildren. This indication is approved under accelerated approval based on MRD response rate and hematological relapse- free survival. Continued approval for this indication may be contingent \nupon verification and description of clinical benefit in the confirmatory trials.  \n• Relapsed or refractory B -cell precursor ALL  \no Treatment of relapsed or refractory B -cell precursor acute lymphoblastic leukemia (ALL) in adults \nand children.  \n \nPolicy/Criteria \nP",
+            "source": "003.pdf"
+        },
+        {
+            "content": "B -cell precursor acute lymphoblastic leukemia (ALL) in adults \nand children.  \n \nPolicy/Criteria \nProvider must submit documentation (such as office chart notes, lab results or other clinical information) \nsupporting that member has met all approval criteria.  \n \nIt is the policy of health plans affiliated with Envolve Pharmacy Solutions™ that Blincyto is  medically \nnecessary when the following criteria are met:  \n I. Initial Approval Criteria  \nA. Acute Lymphoblastic Leukemia (must meet all) : \n1. Diagnosis of B -cell precursor acute lymphoblastic leukemia (B -ALL);  \n2. Prescribed by or in consultation with an oncologist  or hematologist ; \n3. Requested as treatment for (a or b):  \na. B-ALL in remission but positive for minimal residual disease (MRD+);  \nb. Relapsed or refractory B -ALL (i and ii):  \ni. Philadelphia chromosome- negative (Ph- ) disease;  \nii. Philadelphia chromosome- positive (Ph+) disease and intolerant or refractory to at \nleast one second- generation or later tyrosine kinase inhibitor (TKI; i.e., Sprycel\n®, \nTasigna®, Bosulif®, Iclusig®); \n*Prior authorization is (or may be) required for these agents  \n4. Dose does  not exceed 28 mcg/day.  \nApproval duration:",
+            "source": "003.pdf"
+        }
+    ],
+    "decision": {
+        "decision": "NEED_MORE_INFO",
+        "confidence": 0.87,
+        "reason": "Patient is a pediatric relapsed/refractory Ph+ B-ALL case and the requesting provider and dose meet policy elements, but the policy requires that for Ph+ relapsed/refractory B-ALL the patient be intolerant or refractory to at least one second-generation or later TKI (e.g., Sprycel, Tasigna, Bosulif, Iclusig). The record documents prior imatinib (a first-generation TKI) but does not document trial and failure/intolerance of a second-generation or later TKI. Per the policy excerpt below, this missing information is required for approval.",
+        "policy_references": [
+            "003.pdf"
+        ],
+        "matched_policy_text": "It is the policy of health plans affiliated with Envolve Pharmacy Solutions\u00021tm that Blincyto is medically necessary when the following criteria are met:  I. Initial Approval Criteria  A. Acute Lymphoblastic Leukemia (must meet all) : 1. Diagnosis of B -cell precursor acute lymphoblastic leukemia (B -ALL); 2. Prescribed by or in consultation with an oncologist  or hematologist ; 3. Requested as treatment for (a or b):  a. B-ALL in remission but positive for minimal residual disease (MRD+);  b. Relapsed or refractory B -ALL (i and ii):  i. Philadelphia chromosome- negative (Ph- ) disease;  ii. Philadelphia chromosome- positive (Ph+) disease and intolerant or refractory to at least one second- generation or later tyrosine kinase inhibitor (TKI; i.e., Sprycel\u0002, Tasigna\u0002, Bosulif\u0002, Iclusig\u0002);  *Prior authorization is (or may be) required for these agents 4. Dose does  not exceed 28 mcg/day."
+    }
+}

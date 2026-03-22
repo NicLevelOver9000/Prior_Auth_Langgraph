@@ -1,0 +1,39 @@
+{
+    "patient_information": {
+        "patient_name": "Lucas Little",
+        "patient_date_of_birth": "07/30/2017",
+        "patient_id": "345987",
+        "patient_address": "28 Dearborn St, Chicago, IL 60601",
+        "patient_phone_number": "555-360-8746"
+    },
+    "physician_information": {
+        "physician_name": "Dr. Oncoso",
+        "specialty": "Pediatric Hematology and Oncology",
+        "physician_contact": {
+            "office_phone": "555-324-7878",
+            "fax": "555-324-7877",
+            "office_address": "27 W State St, Chicago, IL 60602"
+        }
+    },
+    "clinical_information": {
+        "diagnosis": "Philadelphia chromosome-positive B-cell precursor acute lymphoblastic leukemia (Ph+ B-ALL), relapsed/refractory",
+        "icd_10_code": "C91.0",
+        "prior_treatments_and_results": "Induction (4/1/24-4/29/24): vincristine weekly, dexamethasone daily x28 days, L-asparaginase alternate days, single dose daunorubicin week 1, imatinib daily. Consolidation (5/6/24-7/1/24): high-dose methotrexate weekly, mercaptopurine daily, vincristine biweekly, cyclophosphamide week 3, doxorubicin final week, imatinib continued. Maintenance started 7/8/24: weekly methotrexate, daily mercaptopurine, vincristine every 4 weeks, imatinib daily; intrathecal methotrexate planned for 10/4/24. Bone marrow 3/29/24 showed 85% lymphoblasts at diagnosis. Repeat bone marrow 10/4/24 after consolidation shows >90% blasts indicating treatment failure/relapsed or refractory disease.",
+        "specific_drugs_taken_and_failures": null,
+        "alternative_drugs_required": null,
+        "lab_results": null,
+        "lab_summary": "The most important abnormality is the bone marrow aspirate showing >90% blasts, which is markedly abnormal and meets criteria for acute leukemia (WHO threshold \u226520% blasts). The peripheral CBC values provided are mostly within reference ranges (WBC, differential percentages, hemoglobin, hematocrit, platelets normal). There is a mild basophilia (basophils 2%, reference 0\u20131%), which can be seen with certain myeloproliferative disorders or in some leukemias. Overall this pattern is highly suspicious for an acute leukemic process despite a relatively unremarkable peripheral CBC. Urgent hematology/oncology evaluation is indicated with prompt flow cytometry (marrow and/or peripheral blood), cytogenetic and molecular testing, peripheral smear review, and baseline chemistry/coagulation studies (CMP, uric acid, LDH, coagulation) to guide diagnosis and initial management (including tumor lysis precautions and supportive care).",
+        "imaging_results": null,
+        "symptom_severity_and_impact": "Patient is a 7-year-old male who is overall well-appearing with mild fatigue and decreased energy; no recent fevers or other systemic symptoms reported. Despite relatively mild symptoms, marrow disease burden is very high (>90% blasts).",
+        "prognosis_and_risk_if_not_approved": "Relapsed/refractory Ph+ B-ALL with >90% marrow blasts carries high risk of rapid clinical deterioration including progressive marrow failure (severe cytopenias), life-threatening infection and bleeding, potential CNS or extramedullary spread, and poor overall survival without prompt effective salvage therapy. Delay in effective therapy may preclude curative options such as hematopoietic stem cell transplant.",
+        "clinical_rationale_for_urgency": "Repeat marrow on 10/4/24 demonstrates >90% blasts despite standard induction/consolidation and ongoing imatinib, confirming relapsed/refractory disease. Immediate initiation of an effective salvage agent (requested blinatumomab) is needed to reduce tumor burden, prevent rapid progression/complications, and allow for bridging to potential curative therapy (e.g., transplant).",
+        "treatment_request": {
+            "name_of_medication_or_procedure": "Blincyto (Blinatumomab)",
+            "code_of_medication_or_procedure": null,
+            "dosage": "28mcg/day",
+            "duration": "Induction cycle 1 (Days 1-28); duration based on clinical response",
+            "rationale": "Diagnosis of B-cell acute lymphoblastic leukemia (ALL). Patient has received 1 standard induction and consolidation cycle and is now in maintenance phase; request for Blincyto as indicated.",
+            "presumed_eligibility": null
+        }
+    }
+}

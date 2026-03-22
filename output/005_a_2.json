@@ -1,0 +1,39 @@
+{
+    "patient_information": {
+        "patient_name": "Aiden Smith",
+        "patient_date_of_birth": "08-10-2004",
+        "patient_id": "7891023",
+        "patient_address": "18 N Ontario St, New York, NY 21022",
+        "patient_phone_number": "555-876-3416"
+    },
+    "physician_information": {
+        "physician_name": "Dr. Lisa Lauren",
+        "specialty": "Pediatric Oncology",
+        "physician_contact": {
+            "office_phone": "555-426-7898",
+            "fax": "555-426-7899",
+            "office_address": "1423 Miracle Drive, New York, NY 21023"
+        }
+    },
+    "clinical_information": {
+        "diagnosis": "High-grade osteosarcoma of the distal femur, status post neoadjuvant chemotherapy, limb-sparing surgical resection with prosthetic implant, and adjuvant chemotherapy.",
+        "icd_10_code": "C40.2",
+        "prior_treatments_and_results": "Neoadjuvant chemotherapy (March\u2013April 2024): doxorubicin 75 mg/m2 IV q21 days, cisplatin 120 mg/m2 IV q21 days, high-dose methotrexate 12 g/m2 IV q14 days (3 cycles). Surgical resection (May 1, 2024): limb-sparing resection of distal femur with prosthetic implant. Adjuvant chemotherapy (May 22\u2013Sept 4, 2024): doxorubicin 37.5 mg/m2 IV q21 days, cisplatin 90 mg/m2 IV q21 days, methotrexate 12 g/m2 IV q14 days, ifosfamide 9 g/m2 IV q21 days with Mesna (6 cycles). No imaging response or recurrence results documented in the note.",
+        "specific_drugs_taken_and_failures": null,
+        "alternative_drugs_required": null,
+        "lab_results": null,
+        "lab_summary": "Key abnormalities: pancytopenia with leukopenia (WBC 2.5 x10^9/L), normocytic anemia (Hgb 9.5 g/dL, Hct 28%) and thrombocytopenia (platelets 75 x10^9/L). Liver tests show a mixed hepatocellular/cholestatic pattern (AST 55 U/L, ALT 60 U/L, ALP 150 U/L) with markedly elevated LDH (450 U/L). Markedly elevated ferritin (800 ng/mL) and hypoalbuminemia (albumin 3.0 g/dL) are also present. Renal function, electrolytes, coagulation (PT/aPTT/INR) and glucose are within reference ranges. These results raise concern for bone marrow suppression/infiltrative process, significant systemic inflammation or hemophagocytic/hematologic disorder and hepatic injury; correlation with clinical context and further hematology/liver evaluation (including bone marrow studies and infectious/inflammatory workup) is recommended.",
+        "imaging_results": "CT scan of the chest (09/4/24, noncontrast): Left lower lobe 1.5 cm rounded lesion with irregular margins and spiculated appearance, suggestive of metastatic deposit; several small pulmonary nodules up to 5 mm in both lungs. Mediastinum: no significant mediastinal or hilar lymphadenopathy. Pleura: no pleural effusion or pleural thickening. MRI of the left femur (9/4/24, T1, T2, STIR): Distal femur new irregular mass at prior resection site measuring approximately 4.0 cm; heterogeneous signal with T2 hyperintense areas indicating edema and potential necrosis; extension into surrounding soft tissues with irregular margins and adjacent muscle edema. Extensive surrounding bone marrow edema. Thickening of surrounding soft tissues consistent with desmoplastic reaction. No new suspicious lesions identified in the proximal femur or surrounding structures. X-ray left knee (03/01/24, AP and lateral): Aggressive-appearing lytic bone lesion in the distal femur approximately 5 cm with cortical destruction and a soft tissue mass extending into the adjacent knee joint; periosteal reaction with a \"sunburst\" pattern. No significant joint effusion; surrounding soft tissue thickening. No evidence of metastatic disease in surrounding bones or soft tissues on the radiographs.",
+        "symptom_severity_and_impact": "Patient reports left thigh/knee pain at the site of prior resection, plus two weeks of non-productive cough and fatigue. No fever, shortness of breath, or other systemic symptoms documented. Severity and functional impact are not quantified in the note.",
+        "prognosis_and_risk_if_not_approved": null,
+        "clinical_rationale_for_urgency": null,
+        "treatment_request": {
+            "name_of_medication_or_procedure": "Everolimus",
+            "code_of_medication_or_procedure": null,
+            "dosage": "5mg/m2 once daily (oral tablet). Directions: Take 5mg/m2 once daily in conjunction with 200 mg/m2 of Nexavar twice daily.",
+            "duration": null,
+            "rationale": "Metastatic Osteosarcoma (ICD-10 C40.0); MRI left femur and CT chest show recurrence in distal left femur and new lung metastases. Prior neoadjuvant and adjuvant chemotherapy with inadequate response (Doxorubicin, Cisplatin, Methotrexate; Ifosfamide) and surgery.",
+            "presumed_eligibility": null
+        }
+    }
+}

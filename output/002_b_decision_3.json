@@ -1,0 +1,72 @@
+{
+    "input": {
+        "patient_information": {
+            "patient_name": "Maxie Millionaire",
+            "patient_date_of_birth": "06-15-22",
+            "patient_id": "7656432",
+            "patient_address": "14126 Garnett St, Boston, MA 02108",
+            "patient_phone_number": "555-987-2254"
+        },
+        "physician_information": {
+            "physician_name": "Dr. Lennox",
+            "specialty": "Pediatrics",
+            "physician_contact": {
+                "office_phone": "555-345-7865",
+                "fax": "555-345-7866",
+                "office_address": "84 North Avenue, Boston, MA 02108"
+            }
+        },
+        "clinical_information": {
+            "diagnosis": "Infantile spasms (West syndrome), with new atonic seizure activity and concern for evolution to Lennox-Gastaut syndrome",
+            "icd_10_code": "G40.82",
+            "prior_treatments_and_results": "Patient is adherent to vigabatrin and a ketogenic diet. Despite these therapies, the patient has had increased spasm frequency overnight and development of new atonic seizure semiology (sudden limp episodes with head drop); two spasms were witnessed on exam. Current therapies are inadequate to control seizures.",
+            "specific_drugs_taken_and_failures": null,
+            "alternative_drugs_required": null,
+            "lab_results": null,
+            "lab_summary": "Overall CBC and CMP are within reference ranges. The only consistent abnormality is a slightly low MCH (23 pg; ref 24–30) with a borderline low MCV (72 fL; ref 70–86) while hemoglobin (11.5 g/dL) and hematocrit are in the reported normal ranges — a pattern suggesting mild microcytosis/hypochromia. This can be seen with early iron deficiency, thalassemia trait, or other microcytic processes. All electrolytes, renal and liver function tests, albumin, and proteins are normal. Consider targeted follow-up such as iron studies (ferritin, serum iron, TIBC), peripheral smear, reticulocyte count, and hemoglobin electrophoresis if clinically indicated.",
+            "imaging_results": "EEG (30-minute recording, awake): Background rhythm shows mixed theta and delta activity with predominant generalized slowing; sleep cycles not achieved. Interictal: slow spike-and-wave discharges at 1.5–2.5 Hz, predominantly frontal and central; widespread background slowing with occasional bursts of rhythmic delta. Ictal: several brief generalized seizure episodes characterized by multifocal spikes followed by slow waves, correlating with reported infantile spasms. Occasional generalized slow wave discharges suggestive of atonic seizures. Photostimulation produced a mild photoparoxysmal response with increased slow wave activity but no definite photically induced seizures. Some muscle artifact during movement. Impression: EEG features consistent with Lennox-Gastaut syndrome with evidence of infantile spasms and possible atonic seizures.",
+            "symptom_severity_and_impact": "Increased seizure frequency and new, more varied seizure types (atonic episodes with head drops and continued infantile spasms). Patient appears fatigued; two spasms were witnessed during exam. Presentation required hospital admission and pediatric neurology consultation.",
+            "prognosis_and_risk_if_not_approved": "Clinical course is concerning for progression to Lennox-Gastaut syndrome if seizures remain uncontrolled. Continued uncontrolled and more varied seizures pose risk of further neurologic compromise and developmental impact.",
+            "clinical_rationale_for_urgency": "Seizures have worsened in frequency and semiology despite current therapy, with new atonic events and persistent infantile spasms; patient is admitted and pediatric neurology recommends initiating Epidiolex urgently while further diagnostic evaluation (24-hour video EEG, possible MRI) is performed.",
+            "treatment_request": {
+                "name_of_medication_or_procedure": "Epidiolex",
+                "code_of_medication_or_procedure": null,
+                "dosage": "100 mg/mL; Take 2.5mg/kg/day divided in two doses for one week, then increase to 5mg/kg/day divided in two doses.",
+                "duration": null,
+                "rationale": "Diagnosis: Lennox-Gastaut Syndrome. Current therapy with Vigabatrin and ketogenic diet is insufficient.",
+                "presumed_eligibility": null
+            }
+        }
+    },
+    "retrieved_policies": [
+        {
+            "content": " \nprolonged convulsions, reduction in overall seizure frequency, and minimization of \ntreatment side effects.4,5 \n \nLennox -Gastaut syndrome, a severe epileptic and developmental encephalopathy, is \nassociated with a high rate of morbidity and mortality .6,7  Lennox -Gastaut syndrome   6 Pages  - Cigna National Formulary Coverage  - Policy: Antiseizure Medications – Epidiolex Prior Authorization \nPolicy  \n most often begins between 3 and 5 years of age .6-9  Affected children experience \nseveral different types of seizures, most commonly atonic seizures (sudden loss of \nmuscle tone and limpn ess) and  tonic seizures .6,9  The three main forms of treatment \nof Lennox -Gastaut syndrome  are ASMs, dietary therapy (typically the ketogenic diet), \nand device/surgery (e .g., vagus n erve stimulation, corpus callos tomy) .9  None of the \ntherapies are effective in all cases of Lennox -Gastaut syndrome  and the disorder has \nproven pa rticularly resistan t to most therapeutic options.  \n \nTuberous sclerosis complex is a rare, genetic disease that causes non -cancerous \n(benign) tumors to grow in the brain and on other vital organs such as the kidneys, \nheart, eyes, lungs, and skin.10  It c",
+            "source": "002.pdf"
+        },
+        {
+            "content": "or oral \nsuspension) , and Fintepla® (fenfluramine oral solution) .1,11,17  An expert panel \nconsiders v alproic acid and clobazam to be the first -line treatment for Dravet \nsyndrome.4  If seizure control is suboptimal, Diacomit and topiramate are second -\nline treatment . Ketogenic diet is moderately effective and can also be considered \nsecond -line. The Dravet Foundation states that Diacomit , Epidiolex , and Fintepla  are \nconsidered first -line agents for the treatment of Dravet syndrome.2  If control is still \ninadequate, other therapies to consider are clonazepam, levetiracetam, and \nzonisamide.2,4  Sodium channel blockers (e.g., carbamazepine, oxcarbazepine, \nlamotrigine, and phenytoin ) can worsen seizures in Dravet syndrome . Additionally, \nvigabatrin and tiagabine may increase the frequency of myoclonic seizures and should \nbe avoided.  \n \nLennox -Gastaut Syndrome  \nCurrently, the FDA -approved drugs for this condition  are Epidiolex, Fintepla, \nfelbamate , Banzel® (rufinamide tablet, oral suspension), lamotrigine , topiramate, and \nclobazam .12  Despite the lack of level I or level II evidence, valproic acid remains a \nmainstay in treatment.8,9,13  If valproic acid doe",
+            "source": "002.pdf"
+        },
+        {
+            "content": "ment -resistant \nepilepsy and were on stable doses of ASMs for 4 weeks before starting Epidiolex as \nadd-on therapy . The initial dose of Epidiolex was 2 to 10 mg/kg/day (taken as two \ndivided doses) and gradually titrated until intolerance or to a maximum dose of 25 \nmg/kg/day or 50 mg/kg/day, depending upon treatment site . Of those enrolled in \nthe expanded access program, 892 patients were evalu ated and included in the safety \nanalysis set and 840 patients were included in the efficacy analysis set . Through 192 \nweeks, the m edian percentage reduction in seizure frequency across visit windows \nranged from 50% to 67% for convulsive seizures and 46% to 66% for total seizures . \nIn a cohort of 132 patients (72 children, 60 adults) with treatment -resistant epilepsy, \nbi-weekly seizure frequency decreased from a mean of 144.4 at entry to 52.2 at 12 \nweeks (P = 0.01) and remained stable thereafter.15  Of note, patients with a diagnosis \nof Lennox -Gastaut syndrome  or Dravet syndrome  were initially excluded because of \npreferential enrollment into the randomized clinical trials; once these trials were \nclosed for enrollment, patients with these syndromes were also enrolled.  In a",
+            "source": "002.pdf"
+        },
+        {
+            "content": "w in the brain and on other vital organs such as the kidneys, \nheart, eyes, lungs, and skin.10  It can result in a combination of symptoms including \nseizures, impaired intellectual development, autism, behavioral problems, skin \nabnormalities, and kidney disease . Seizures affect most individuals with tuberous \nsclerosis complex  at some point during their life  and can be difficult to control.  \n \nClinical Efficacy  in Other Refractory Seizures  \nIn 2014, an expanded access program was initiated to provide Epidiolex to patients \nwith treatment -resistant epilepsy.14  Of the 840 patients included in a published \nreview, 1 92 patients were diagnosed with D ravet syndrome  or Lennox -Gastaut \nsyndrome , and 648 patients were diagnosed with other conditions, including CDKL5 \ndeficiency disorder, Dup15q, Aicardi, and Doose syndromes; febrile infection ‐related \nepilepsy syndromes; tuberous sclerosis complex; Sturge ‐Weber syndrome; \nlissencephaly; cortical malformatio n/dysplasia; and myoclonic absence.  The patients \nenrolled in the study had severe, intractable, childhood -onset treatment -resistant \nepilepsy and were on stable doses of ASMs for 4 weeks before starting Epidiolex as ",
+            "source": "002.pdf"
+        },
+        {
+            "content": "ps://www.epilepsy.com/learn/types -epilepsy -syndromes/lennox -gastaut -\nsyndrome -lgs. Accessed on February 5, 2024. \n7. Cross JH, Auvin S, Falip M, et al. Expert opinion on the management of Lennox -Gastaut syndrome:  \ntreatment algorithms and practical considerations . Front Neurol . 2017;8:505 . \n8. Ostendorf AP, Ng YT . Treatment -resistant Lennox -Gastaut syndrome:  therapeutic trends, \nchallenges, and future directions . Neuropsych Dis Treatment . 2017;13:1131 -1140.  \n9. Wheless JW . National Organization for Rare Diseases (NORD) – Lennox -Gastaut syndrome . Available \nat:  https://rarediseases.org/rare -diseases/lennox -gastaut -syndrome/#standard -therapies . \nAccessed on February 5, 2024. \n10. National Institutes of Neurological Disorders and Stroke . Tuberous Sclerosis Fact Sheet . Last \nupdated:  November 28, 202 3. Available at:  https://www.ninds.nih.gov/health -\ninformation/disorders/tuberous -sclerosis -complex . Accessed on February 5, 2024. \n11. Diacomit® capsules, powder for oral suspension [prescribing information] . Redwood City, CA :  \nBicodex; July 2022 . 6 Pages  - Cigna National Formulary Coverage  - Policy: Antiseizure Medications – Epidiolex Prior Author",
+            "source": "002.pdf"
+        }
+    ],
+    "decision": {
+        "decision": "APPROVED",
+        "confidence": 0.82,
+        "reason": "The submitted request is for Epidiolex to treat Lennox-Gastaut syndrome (LGS). The provided policy text identifies Epidiolex as an FDA-approved drug for Lennox-Gastaut syndrome and describes use of Epidiolex as add-on therapy in patients with treatment-resistant epilepsy who remained on stable antiseizure medications. The patient has a documented diagnosis of LGS with worsening seizures despite current therapy (vigabatrin and ketogenic diet), and the requested dosing (start 2.5 mg/kg/day then increase to 5 mg/kg/day) falls within the typical initial dosing range described in the policy. Therefore, the request is consistent with the policy-authorized indication and dosing for add-on therapy in LGS.",
+        "policy_references": [
+            "002.pdf"
+        ],
+        "matched_policy_text": "Currently, the FDA -approved drugs for this condition  are Epidiolex, Fintepla, felbamate , Banzel\u0000AE (rufinamide tablet, oral suspension), lamotrigine , topiramate, and clobazam .12  Despite the lack of level I or level II evidence, valproic acid remains a mainstay in treatment.8,9,13  If valproic acid doe\n\nment -resistant \nepilepsy and were on stable doses of ASMs for 4 weeks before starting Epidiolex as \nadd-on therapy . The initial dose of Epidiolex was 2 to 10 mg/kg/day (taken as two \ndivided doses) and gradually titrated until intolerance or to a maximum dose of 25 \nmg/kg/day or 50 mg/kg/day, depending upon treatment site . Of those enrolled in \nthe expanded access program, 892 patients were evalu ated and included in the safety \nanalysis set and 840 patients were included in the efficacy analysis set . Through 192 \nweeks, the m edian percentage reduction in seizure frequency across visit windows \nranged from 50% to 67% for convulsive seizures and 46% to 66% for total seizures .\n\nLennox -Gastaut syndrome, a severe epileptic and developmental encephalopathy, is \nassociated with a high rate of morbidity and mortality .6,7  Lennox -Gastaut syndrome   \nmost often begins between 3 and 5 years of age .6-9  Affected children experience \nseveral different types of seizures, most commonly atonic seizures (sudden loss of \nmuscle tone and limpness) and tonic seizures .6,9  The three main forms of treatment \nof Lennox -Gastaut syndrome  are ASMs, dietary therapy (typically the ketogenic diet), \nand device/surgery (e .g., vagus nerve stimulation, corpus callosotomy) .9  None of the \ntherapies are effective in all cases of Lennox -Gastaut syndrome  and the disorder has \nproven particularly resistant to most therapeutic options."
+    }
+}

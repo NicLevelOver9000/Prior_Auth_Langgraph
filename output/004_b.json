@@ -1,0 +1,39 @@
+{
+    "patient_information": {
+        "patient_name": "Emily Jones",
+        "patient_date_of_birth": "8-27-2016",
+        "patient_id": "1234567",
+        "patient_address": "45 E Parkway Ave, New York, NY 21022",
+        "patient_phone_number": "555-876-3423"
+    },
+    "physician_information": {
+        "physician_name": "Michelle King",
+        "specialty": "Allergy and immunology",
+        "physician_contact": {
+            "office_phone": "555-645-8796",
+            "fax": "555-645-8799",
+            "office_address": "36 E Ridgeview St, New York, NY 21023"
+        }
+    },
+    "clinical_information": {
+        "diagnosis": "Severe atopic dermatitis (atopic eczema)",
+        "icd_10_code": "L20.9",
+        "prior_treatments_and_results": "Topical triamcinolone cream up to twice daily and regular use of emollients (Aquaphor) for approximately 3 weeks without significant relief; persistent pruritic dry patches.",
+        "specific_drugs_taken_and_failures": null,
+        "alternative_drugs_required": null,
+        "lab_results": null,
+        "lab_summary": null,
+        "imaging_results": null,
+        "symptom_severity_and_impact": "SCORAD 35 (moderate to severe). Dry, flaky skin with excoriation; erythematous pruritic plaques on flexural areas (elbows, knees) and face. Pruritus affects ability to sleep and lesions occasionally bleed when scratched.",
+        "prognosis_and_risk_if_not_approved": "Without approval of systemic therapy, patient is likely to have persistent uncontrolled atopic dermatitis with ongoing sleep disturbance, continued skin excoriation and bleeding, and impaired quality of life; may require escalation of care if symptoms remain uncontrolled.",
+        "clinical_rationale_for_urgency": "Patient has moderate-to-severe disease (SCORAD 35) with poor response to topical therapy over 3 weeks and clinically significant impact on sleep and skin integrity; provider recommends initiating dupilumab (systemic therapy) for better symptom control with specified initial and maintenance dosing.",
+        "treatment_request": {
+            "name_of_medication_or_procedure": "Dupilumab",
+            "code_of_medication_or_procedure": null,
+            "dosage": "300mg initial dose (divided as two 150mg injections), followed by 300mg every 2 weeks",
+            "duration": null,
+            "rationale": "Severe atopic dermatitis; inadequate response to Triamcinolone 0.5% ointment after a 3 week trial",
+            "presumed_eligibility": null
+        }
+    }
+}

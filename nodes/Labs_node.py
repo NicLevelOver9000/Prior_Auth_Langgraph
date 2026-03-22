@@ -8,17 +8,32 @@ def labs_node(state):
     print("Inside Labs Node")
     print("Current State in Labs Node: ", state)
 
-    ocr = AzureDocumentOCR()
-    text = ocr.extract_text("input_pdfs/labs.pdf")
+    file_path = "input_pdfs/labs.pdf"
 
-    extractor = LabsExtractor()
-    labs_data = extractor.extract(text)
+    # ✅ Check if file exists
+    if not os.path.exists(file_path):
+        print("No labs.pdf found, skipping Labs Node...")
 
-    os.makedirs("output", exist_ok=True)
+        return {"labs_data": None}
 
-    with open("output/labs.json", "w") as f:
-        json.dump(labs_data, f, indent=4)
+    try:
+        ocr = AzureDocumentOCR()
+        text = ocr.extract_text(file_path)
 
-    print("Labs node Output: ", labs_data)
+        extractor = LabsExtractor()
+        labs_data = extractor.extract(text)
 
-    return {"labs_data": labs_data}
+        os.makedirs("output", exist_ok=True)
+
+        with open("output/labs.json", "w") as f:
+            json.dump(labs_data, f, indent=4)
+
+        print("Labs node Output: ", labs_data)
+
+        return {"labs_data": labs_data}
+
+    except Exception as e:
+        print(f"Error in Labs Node: {e}")
+
+        # ✅ Fail gracefully
+        return {"labs_data": None}

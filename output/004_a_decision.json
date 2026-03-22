@@ -1,0 +1,72 @@
+{
+    "input": {
+        "patient_information": {
+            "patient_name": "Emily Jones",
+            "patient_date_of_birth": "8-27-2016",
+            "patient_id": "1234567",
+            "patient_address": "45 E Parkway Ave, New York, NY 21022",
+            "patient_phone_number": "555-876-3423"
+        },
+        "physician_information": {
+            "physician_name": "Michelle King",
+            "specialty": "Allergy and immunology",
+            "physician_contact": {
+                "office_phone": "555-645-8796",
+                "fax": "555-645-8799",
+                "office_address": "36 E Ridgeview St, New York, NY 21023"
+            }
+        },
+        "clinical_information": {
+            "diagnosis": "Moderate to severe atopic dermatitis (atopic eczema) in an 8-year-old female (comorbid mild intermittent asthma).",
+            "icd_10_code": "L20.9",
+            "prior_treatments_and_results": "Topical triamcinolone cream and pimecrolimus up to twice daily plus regular emollient use (Aquaphor) for ~5 weeks without significant relief. Symptoms persist with pruritic dry patches, excoriation and occasional bleeding when scratched.",
+            "specific_drugs_taken_and_failures": null,
+            "alternative_drugs_required": null,
+            "lab_results": null,
+            "lab_summary": null,
+            "imaging_results": null,
+            "symptom_severity_and_impact": "SCORAD 35 (moderate to severe) with >10% body surface area involved. Erythematous, pruritic plaques on flexural areas and face. Pruritus interferes with sleep and causes excoriations/occasional bleeding.",
+            "prognosis_and_risk_if_not_approved": "Continued refractory atopic dermatitis with persistent pruritus, sleep disturbance, ongoing skin excoriation and bleeding, increased risk of secondary skin infection and sustained decreased quality of life if systemic therapy is not initiated.",
+            "clinical_rationale_for_urgency": "Patient has moderate-severe disease (SCORAD 35, >10% BSA) that failed adequate topical therapy over 5 weeks; provider recommends initiating systemic therapy (dupilumab) for better symptom control to prevent ongoing morbidity.",
+            "treatment_request": {
+                "name_of_medication_or_procedure": "Dupilumab",
+                "code_of_medication_or_procedure": null,
+                "dosage": "300mg initial dose (divided as two 150mg injections), followed by 300mg every 2 weeks",
+                "duration": null,
+                "rationale": "Severe atopic dermatitis; inadequate response to triamcinolone 0.5% ointment (5 week trial, continues) and pimecrolimus 1% cream (5 week trial, continues)",
+                "presumed_eligibility": null
+            }
+        }
+    },
+    "retrieved_policies": [
+        {
+            "content": "ontrolled chronic \nrhinosinusitis with nasal polyposis (CRSwNP), for the treatment of adult and pediatric patients aged 1 year and older, weighing at least 15 kg, with eosinophilic esophagitis (EoE), and for \nadult patients with prurigo nodularis (P N). \n \nLimitation of Use:  \nDupixent is not for the relief of acute bronchospasm or status asthmaticus.  \n2. Coverage Criteria\na: \nA. Atopic Dermatitis  \n \n1.  Initial Authorization \n \na. Dupixent  will be approved based on all  of the following criteria:  \n \n(1) Diagnosis of moderate -to-severe chronic atopic dermatitis  \n \n-AND- \n \n(2)  History of failure, contraindication, or intolerance to two of the following \ntherapeutic classes of topical therapies (document drug, date of trial , and/ or \ncontraindication to medication )^: \n \n(a) Medium,high, or very -high potency topical corticosteroid [e.g., Elocon \n(mometasone furoate), Synalar (fluocinolone acetonide), Lidex \n(fluocinonide)]  \n(b) Topical calcin eurin inhibitor [e.g., Elidel (pimecrolimus), Protopic \n(tacrolimus)] .*  \n(c) Eucrisa (crisaborole)*  \n \n-AND -  \n© 2024 UnitedHealthcare Services, Inc.  \n2 \n \n \n(3)  Patient is not receiving Dupixent in combination with either  of t",
+            "source": "004.pdf"
+        },
+        {
+            "content": "om WL, Berger TG, et al. Guidelines of care for the management of atopic \ndermatitis: section 2. Management and treatment of atopic dermatitis with topical therapies. J Am \nAcad Dermatol.  2014; 71(1):116-32. \n4. Sidbury R, Davis DM, Cohen DE, et al.  Guidelines of care for the management of atopic \ndermatitis: Section 3. Management and treatment with phototherapy and systemic agents.  J Am \nAcad Dermatol. 2014 Aug;71(2):327-49. \n5. Dupixent® [package insert].  Tarrytown, NY:  Regeneron Pharmaceuticals, Inc.  January 2024. \n6. Global Initiative for Asthma. Global Strategy for Asthma Management and Prevention, 2023.  Available at http://www.ginasthma.org\n.  Accessed June 8, 2023. \n7. Castro M, Corren J, Pavord ID, et al.  Dupilumab efficacy and safety in moderate- to-severe \nuncontrolled asthma. N Engl J Med.  2018; 378:2486-96. \n8. Rabe KF, Nair P, Brusselle G, et al. Efficacy and safety of dupilumab in glucocorticoid -\ndependent severe asthma.  N Engl J Med. 2018; 378:2475-85. \n9. Orlandi RR, Kingdom TT, Hwang PH, et al.  International consensus statement on allergy and \nrhinology: rhinosinusitis.  Int Forum Allergy Rhinol. 2016;6:S22-S209. \n10. Peters AT, Spector S, Hsu J, et al.",
+            "source": "004.pdf"
+        },
+        {
+            "content": "usly on therapy.  Added sample pack language.  Removed medical record submission requirement while adding requirement for medication trial or contraindication documentation.  \nAdded corticosteroid potency table as reference.   \n7/2018  Annual review with no change to coverage criteria.  Updated reference.  \n12/2018  Updated background and formatting and added criteria for  new \nindication for moderate -to-severe asthma . \n4/2019  Updated background and criteria for updated indication of adolescent \natopic dermatitis .  Removed criteria regarding history of systemic \nimmunosuppressant for atopic dermatitis use as allowance for initial approval as no longer critical with market availability surpassing 2 \nyears.  \n10/2019  Updated Dupixent® (dupilumab)  background and criteria for new \nindication for CRSwNP.  Updated references.  \n4/2020  Updated criteria for atopic dermatitis requiring failure of two topicals \nfor all severities of atopic dermatitis  \n5/2020  Updated criteria for clarification without change to clinical intent  \n6/2020  Updated background and criteria to include new indication for \nmoderate -to-severe atopic dermatitis in children aged 6 to 11 years.   \nAligned speci",
+            "source": "004.pdf"
+        },
+        {
+            "content": "udesonide DPI  200-400 >400 -800 >800  \nCiclesonide (HFA)  80-160 >160 -320 >320  \nFluticasone furoate (DPI)  100 n.a 200 \nFluticasone propionate (DPI)  100-250 >250 -500 >500  \nFluticasone propionate (HFA)  100-250 >250 -500 >500  \nMometasone furoate  110-220 >220 -440 >440  \nTriamcinolone acetonide  400-1000  >1000 -2000  >2000  \n \n3. Additional Clinical Programs:  \n• Notwithstanding Coverage Criteria, UnitedHealthcare may approve initial and re -authorization \nbased solely on previous claim/medication history, diagnosis codes (ICD -10) and/or claim logic. \nUse of automated approval and re -approval processes varies by program and/or therapeutic class  \n• Supply limitations may be in place  \n \n4. References: \n1. Simpson EL, Bieber T, Guttman- Yassky  E, et al. Two phase 3 trials of dupilumab versus placebo \nin atopic dermatitis.  N Engl J Med. 2016 Sep 30. \n2. Eichenfield LF, Tom WL, Chamlin SL et al. Guidelines of care for the management of atopic \ndermatitis: section 1.  Diagnosis and assessment of atopic dermatitis.  J Am Acad Dermatol. \n2014; 70(1):338-51. \n3. Eichenfield LF, Tom WL, Berger TG, et al. Guidelines of care for the management of atopic \ndermatitis: section 2. Man",
+            "source": "004.pdf"
+        },
+        {
+            "content": " severity or frequency of asthma-related symptoms (e.g., \nwheezing, shortness of breath, coughing, etc.) \n(e)  Reduction in oral corticosteroid  requirements  \n \n-AND- \n \n(2) Dupixent is being used in combination with an ICS-containing maintenance \nmedication  [e.g., Advair/AirDuo (fluticasone/salmeterol), Breo Ellipta \n(fluticasone furoate/vilanterol), Symbicort (budesonide/ formoterol), Trelegy Ellipta (fluticasone furoate/umeclidinium/vilanterol)].  \n \n-AND- \n \n(3)  Patient is not receiving Dupixent in combination with any of the following:   \n© 2024 UnitedHealthcare Services, Inc.  \n5 \n \n \n(a)  Anti-interleukin -5 therapy [e.g., Nucala (mepolizumab), Cinqair \n(resilizumab), Fasenra (benralizumab)]  \n(b)  Anti-IgE therapy [e.g., Xolair (omalizumab)]  \n(c)  Thymic stromal lymphopoietin (TSLP) inhibitor [e.g., Tezspire \n(tezepelumab)]  \n \n-AND- \n \n(4) Prescribed by one of the following:  \n \n(a) Allergist  \n(b) Immunologist  \n(c)  Pulmonologist \n \nAuthorization will be issued for 12 months.  \n \nC. Chronic Rhinosinusitis with Nasal Polyposis  \n \n1.  Initial Authorization \n \na. Dupixent  will be approved based on all of the following criteria:  \n \n(1)  Diagnosis of chronic rhinosinus",
+            "source": "004.pdf"
+        }
+    ],
+    "decision": {
+        "decision": "NEED_MORE_INFO",
+        "confidence": 0.84,
+        "reason": "Policy requires (1) diagnosis of moderate-to-severe chronic atopic dermatitis (met: SCORAD 35, >10% BSA) AND (2) documented history of failure, contraindication, or intolerance to two topical therapy classes: a medium/high/very-high potency topical corticosteroid, a topical calcineurin inhibitor, or Eucrisa. The submission documents trials of triamcinolone (noted as 0.5% ointment) and pimecrolimus (1% cream) for ~5 weeks without significant relief. The policy specifically requires documentation that the topical corticosteroid trial was with a medium, high, or very-high potency steroid and requires documentation of drug and date(s)/duration of trial. The provided record does not explicitly confirm the potency classification of the triamcinolone preparation nor precise dates/duration of each topical trial, and does not confirm the patient is not receiving Dupixent in combination with disallowed biologic therapies. Per policy and strict instructions to not assume missing data, additional information is needed: (a) confirm the potency of the topical corticosteroid used (was it medium, high, or very-high potency?), (b) provide exact dates and duration of the topical corticosteroid and topical calcineurin inhibitor trials (or note documented contraindication/intolerance), and (c) confirm the patient is not currently receiving any disallowed concurrent biologic therapies listed in the policy. Until these items are provided, approval cannot be determined.",
+        "policy_references": [
+            "004.pdf"
+        ],
+        "matched_policy_text": "A. Atopic Dermatitis  \n \n1.  Initial Authorization \n \na. Dupixent  will be approved based on all  of the following criteria:  \n \n(1) Diagnosis of moderate -to-severe chronic atopic dermatitis  \n \n-AND- \n \n(2)  History of failure, contraindication, or intolerance to two of the following \ntherapeutic classes of topical therapies (document drug, date of trial , and/ or \ncontraindication to medication )^: \n \n(a) Medium,high, or very -high potency topical corticosteroid [e.g., Elocon \n(mometasone furoate), Synalar (fluocinolone acetonide), Lidex \n(fluocinonide)]  \n(b) Topical calcin eurin inhibitor [e.g., Elidel (pimecrolimus), Protopic \n(tacrolimus)] .*  \n(c) Eucrisa (crisaborole)*  \n \n-AND -  \n\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000(3)  Patient is not receiving Dupixent in combination with either  of t"
+    }
+}

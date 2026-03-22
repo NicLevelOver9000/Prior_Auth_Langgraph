@@ -1,0 +1,72 @@
+{
+    "input": {
+        "patient_information": {
+            "patient_name": "Aiden Smith",
+            "patient_date_of_birth": "2-1-2014",
+            "patient_id": "7891023",
+            "patient_address": "18 N Ontario St, New York, NY 21022",
+            "patient_phone_number": "555-876-3416"
+        },
+        "physician_information": {
+            "physician_name": "Dr. Lisa Lauren",
+            "specialty": "Oncology",
+            "physician_contact": {
+                "office_phone": "555-426-7898",
+                "fax": "555-426-7899",
+                "office_address": "1423 Miracle Drive, New York, NY 21023"
+            }
+        },
+        "clinical_information": {
+            "diagnosis": "High-grade osteosarcoma of the distal femur (status post neoadjuvant chemotherapy, limb-sparing resection with prosthetic implant, and adjuvant chemotherapy)",
+            "icd_10_code": "C40.2",
+            "prior_treatments_and_results": "Neoadjuvant chemotherapy (Doxorubicin 75 mg/m2 IV q21 days, Cisplatin 120 mg/m2 IV q21 days, Methotrexate 12 g/m2 IV q14 days) — 3 cycles (March 10–April 21, 2024). Surgical resection (limb-sparing distal femur resection with prosthetic implant) on May 1, 2024. Adjuvant chemotherapy (Doxorubicin 37.5 mg/m2 IV q21 days, Cisplatin 90 mg/m2 IV q21 days, Methotrexate 12 g/m2 IV q14 days, Ifosfamide 9 g/m2 IV q21 days with Mesna) — 6 cycles (May 22–September 4, 2024). Documented as s/p chemotherapy, surgical resection, and adjuvant therapy; no explicit imaging response or remission status reported in this note.",
+            "specific_drugs_taken_and_failures": null,
+            "alternative_drugs_required": null,
+            "lab_results": null,
+            "lab_summary": "Key abnormalities: pancytopenia with leukopenia (WBC 2.5 x10^9/L), moderate anemia (Hgb 9.5 g/dL, Hct 28%), and thrombocytopenia (platelets 75 x10^9/L) — all clinically significant with increased infection and bleeding risk. Evidence of hepatocellular and/or cholestatic injury (AST 55 U/L, ALT 60 U/L, ALP 150 U/L) with mild hypoalbuminemia (albumin 3.0 g/dL). Markedly elevated LDH (450 U/L) and hyperferritinemia (ferritin 800 ng/mL), which can reflect high cell turnover, hemolysis, inflammation, iron overload, or macrophage activation. Basic metabolic panel, renal function, coagulation (PT/aPTT/INR) and beta‑HCG are within expected limits. Differential considerations include bone marrow failure or infiltration (aplastic anemia, leukemia, myelodysplasia), severe infection or viral-mediated marrow suppression, immune‑mediated cytopenias, hemophagocytic lymphohistiocytosis (HLH) or severe inflammatory state, and concurrent liver disease. Suggested next steps: urgent hematology evaluation; repeat CBC with differential and peripheral smear; reticulocyte count; iron studies, B12/folate; viral serologies (EBV/CMV/HBV/HCV/HIV, parvovirus as indicated); inflammatory markers (CRP/ESR), triglycerides and fibrinogen if HLH suspected; consider bone marrow biopsy and imaging for splenomegaly; monitor for bleeding/infection and manage supportively (transfusion/antibiotic precautions) as clinically indicated.",
+            "imaging_results": "CT Chest (09/04/24, noncontrast): 1.5 cm rounded, irregular, spiculated lesion in the left lower lobe concerning for metastatic deposit; several additional small bilateral pulmonary nodules up to 5 mm consistent with potential metastatic disease; no mediastinal or hilar lymphadenopathy; no pleural effusion or pleural thickening. MRI Left Femur (09/04/24, T1/T2/STIR): New irregular mass at site of prior osteosarcoma resection in the distal femur measuring ~4.0 cm with heterogeneous signal and T2 hyperintense areas suggesting edema/possible necrosis; tumor extends into surrounding soft tissues with irregular margins and adjacent muscle edema; extensive surrounding bone marrow edema; thickening of surrounding soft tissues consistent with desmoplastic reaction; no new suspicious lesions in the proximal femur or surrounding structures. X-ray Left Knee (03/01/24, AP and lateral): Aggressive-appearing lytic lesion in the distal femur approximately 5 cm with cortical destruction and a soft tissue mass extending into the adjacent knee joint; associated periosteal reaction with a \"sunburst\" pattern; no significant joint effusion; surrounding soft tissue thickening; no evidence of metastatic disease in surrounding bones or soft tissues at that time.",
+            "symptom_severity_and_impact": "Patient reports left thigh/knee pain at the site of prior resection, and a 2-week history of non-productive cough and fatigue. No fever, shortness of breath, or other systemic symptoms documented. Severity and functional impact not quantified in the note.",
+            "prognosis_and_risk_if_not_approved": null,
+            "clinical_rationale_for_urgency": null,
+            "treatment_request": {
+                "name_of_medication_or_procedure": "Everolimus",
+                "code_of_medication_or_procedure": null,
+                "dosage": "5mg/m2 once daily (oral tablet)",
+                "duration": null,
+                "rationale": "Metastatic Osteosarcoma",
+                "presumed_eligibility": null
+            }
+        }
+    },
+    "retrieved_policies": [
+        {
+            "content": " \n© 2024 UnitedHealthcare Services, Inc.  \n1 \nUnitedHealth care Pharmacy   \nClinical Pharmacy Programs  \n \nProgram Number  2024  P 1003 -13 \nProgram  Prior Authorization/ Notification   \nMedication  Afinitor® (everolimus )  \nP&T Approval Date  12/8/2009 , 6/2010, 9/2010, 12/2010, 7/2011, 9/2011, 5/2012, 8/2012, \n7/2013, 8/2014, 8/2015, 7/2016, 7/2017, 5/2018, 5/2019, 5/2020, \n5/2021 , 5/2022 , 5/2023 , 5/2024  \nEffective Date  8/1/2024  \n \n1. Background:  \nAfinitor (everolimus ) is a kin ase inhibitor  indicated for the treatment of postmenopausal women \nwith advanced hormone receptor -positive, HER2- negative breast cancer in combination with \nAromasin® (exemestane) after failure of treatment with Femara® (letrozole) or Arimidex® \n(anastrozole); in adults wi th progressive neuroendocrine tumors of pancreatic origin (PNET) and \nadults with progressive, well -differentiated, non- functional neuroendocrine tumors (NET) of \ngastrointestinal (GI) or lung origin that are unresectable, locally advanced or metastatic; adu lts \nwith advanced renal cell carcinoma (RCC) after failure of treatment with Sutent® (sunitinib) or \nNexavar® (sorafenib); adults with renal angiomyolipoma and t uberou",
+            "source": "005.pdf"
+        },
+        {
+            "content": "r  will be approved based on both of the following criteria:  \n \n(1) Diagnosis of  tuberous sclerosis complex associated partial -onset seizures \n \n-AND-  \n \n(2) Used as adjunctive therapy  \n \nAuthorization will be issued for 12 months.  \n \n2. Reauthorization  \n \na. Afinitor  will be approved based on the following criterion:  \n© 2024 UnitedHealthcare Services, Inc.  \n10 \n \n(1) Patient does not show evidence of progressive disease while on Afinitor therapy  \n \nAuthorization will be issued for 12 months.  \n O. Bone Cancer - Osteosarcoma  \n \n1. Initial Authorization  \n a. Afinitor  will be approved based on all of the following criteria:  \n \n(1) Diagnosis of  osteosarcoma  \n \n-AND-  \n \n(2) Disease is one of the following:  \n(a) Relapsed /Refractory  \n(b) Metastatic  \n-AND-  \n \n(3) Used as second -line therapy  \n \n-AND-  \n \n(4) U sed in combination with Nexavar (sorafenib)  \n \nAuthorization will be issued for 12 months.  \n \n2. Reauthorization  \n \na. Afinitor  will be approved based on the following criterion: \n \n(1) Patient does not show evidence of progressive disease while on Afinitor therapy \n \nAuthorization will be issued for 12 months.  \n P. Histiocytic Neoplasms  \n 1. Initial Au",
+            "source": "005.pdf"
+        },
+        {
+            "content": " formatting, Background and References.  \n9/2014  Administrative change – Tried/Failed exemption for State of New \nJersey removed.  \n8/2015  Annual review. Updated criteria for breast cancer, Hodgkin lymphoma, \nlung neuroendocrine tumors and Waldenström’s macroglobulinemia / lymphoplasmacytic lymphoma. Increased authorization and reauthorization from 5 months to 12 months for all indications. Updated \nbackground and references.  \n7/2016  Annual review.  Consolidated neuroendocrine tumor criteria.  Minor \nrevision to Renal Cell Carcinoma.  Added indications and criteria for  \n© 2024 UnitedHealthcare Services, Inc.  \n13 \nOsteosarcoma and Thymoma/thymic carcinoma per NCCN guidelines. \nUpdated background and references.  \n7/2017  Annual review . Updated background and added criteria for thyroid \ncarcinoma and the bone cancers, dedifferentiated chondrosarcoma,  \nhigh- grade undifferentiated pleo morphic sarcoma (UPS)  per NCCN \nguidelines .  Updated references . \n5/2018  Annual revi ew. Updated background, added criteria for meningioma, \ngastrointenstinal  stromal tumors, endometrial carcinoma, thymic \nneuroendocrine tumors, and updated breast cancer criteria per NCCN \nguidelines. Added",
+            "source": "005.pdf"
+        },
+        {
+            "content": "n \n(iii) Neuroendocrine tumors of thymic origin  \n  \n-AND-  \n \n(b) Disease is progressive  \n -AND-  \n \n(c) One of the following:  \n \n(i) Disease is u nresectable   \n(ii) Disease is locally advanced  \n(iii) Disease is m etastatic   \n \n-OR- \n \n(2) Both  of the following:  \n \n(a) Diagnosis of  neuroendocrine tumors of pancreatic origin \n \n-AND-  \n \n(b) One of the following : \n \n(i) Used for the management of recurrent, locoregional advanced disease \nand/or metastatic disease  \n(ii) Used as preoperative therapy of locoregional insulinoma with or without diazoxide  \n  \n© 2024 UnitedHealthcare Services, Inc.  \n3 \nAuthorization will be issued for 12 months.  \n \n2. Reauthorization  \n \na. Afinitor  will be approved based on the following criterion: \n \n(1) Patient does not show evidence of progressive disease while on Afinitor therapy  \n \nAuthorization will be issued for 12 months.  \n C. Advanced Renal Cell Carcinoma /Kidney Cancer  \n \n1. Initial Authorization  \n \na. Afinitor  will be approved based on both of the following criteria:  \n \n  \n(1)  Diagnosis of advanced renal cell cancer /kidney cancer   \n    \n -AND-  \n (2)  Disease is one  of the following:   \n    \n(a)  Relapsed  \n(b)  Stage I",
+            "source": "005.pdf"
+        },
+        {
+            "content": "inoma, thymic \nneuroendocrine tumors, and updated breast cancer criteria per NCCN \nguidelines. Added criteria for new indication of tuberous sclerosis \ncomplex associated partial -onset seizures. Updated references . \n5/2019  Annual review. Updated background. Removed criteria for bone cancer \n(no longer recommended per NCCN guidelines). Updated reference.  \n5/2020  Annual review. Updated background. Updated coverage criteria for soft \ntissue sarcoma, thymomas and thymic car cinomas, and meningiomas \nper NCCN guidelines. Updated references.  \n5/2021  Annual review. Addition of criteria for osteosarcoma and Histiocytic \nNeoplasms, and update to kidney cancer criteria  according to NCCN \nguidelines. Updated references.  \n5/2022  Annual review. Updated background. Updated osteosarcoma criteria per \nNCCN guidelines. Updated references.  \n5/2023  Annual review. Updated background. Updated Neuroendocrine tumor \nand Hodgkin lymphoma  criteria  per NCCN guidelines. Added state \nmandate and oncology medications footnote . Updated references.  \n5/2024  Updated background to reflect current NCCN guidance. Updated \ncriteria for neuroendocrine tumors, advanced renal cell \ncarcinoma/kidney cance",
+            "source": "005.pdf"
+        }
+    ],
+    "decision": {
+        "decision": "DENIED",
+        "confidence": 0.9,
+        "reason": "The requested medication (everolimus) for osteosarcoma does not meet the plan's initial authorization criteria because the policy requires everolimus to be used in combination with Nexavar (sorafenib) as part of second-line therapy for relapsed/refractory or metastatic osteosarcoma. The patient has a diagnosis of osteosarcoma with metastatic disease and prior systemic therapy (satisfying criteria (1)-(3)), but the request is for everolimus monotherapy and does not document use in combination with sorafenib, which is a required criterion (4). Per the policy, this fails the coverage criteria and must be denied.",
+        "policy_references": [
+            "005.pdf"
+        ],
+        "matched_policy_text": "O. Bone Cancer - Osteosarcoma  \n \n1. Initial Authorization  \n a. Afinitor  will be approved based on all of the following criteria:  \n \n(1) Diagnosis of  osteosarcoma  \n \n-AND-  \n \n(2) Disease is one of the following:  \n(a) Relapsed /Refractory  \n(b) Metastatic  \n-AND-  \n \n(3) Used as second -line therapy  \n \n-AND-  \n \n(4) U sed in combination with Nexavar (sorafenib)  \n \nAuthorization will be issued for 12 months."
+    }
+}
