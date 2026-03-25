@@ -1,0 +1,10 @@
+{
+    "clinical_information": {
+        "diagnosis": "High-grade osteosarcoma of the distal femur (post surgical resection)",
+        "icd_10_code": "C40.2",
+        "prior_treatments_and_results": "Neoadjuvant chemotherapy (Doxorubicin 75 mg/m2 q21d, Cisplatin 120 mg/m2 q21d, Methotrexate 12 g/m2 q14d) given March\u2013April 2024 (3 cycles). Limb-sparing surgical resection of the distal femur with prosthetic implant on May 1, 2024. Adjuvant chemotherapy May\u2013September 2024 (6 cycles) with reduced-dose Doxorubicin 37.5 mg/m2 q21d, Cisplatin 90 mg/m2 q21d, Methotrexate 12 g/m2 q14d, and Ifosfamide 9 g/m2 q21d with Mesna. No imaging response or post-treatment tumor status documented in the note.",
+        "symptom_severity_and_impact": "Patient reports left thigh pain at the site of prior resection, and 2 weeks of non-productive cough and fatigue. Severity not quantified; symptoms are symptomatic but no documented functional limitations or systemic signs (no fever, no dyspnea).",
+        "prognosis_and_risk_if_not_approved": null,
+        "clinical_rationale_for_urgency": null
+    }
+}

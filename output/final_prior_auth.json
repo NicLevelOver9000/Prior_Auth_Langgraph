@@ -1,0 +1,39 @@
+{
+    "patient_information": {
+        "patient_name": "Aiden Smith",
+        "patient_date_of_birth": "2-1-2014",
+        "patient_id": "7891023",
+        "patient_address": "18 N Ontario St, New York, NY 21022",
+        "patient_phone_number": "555-876-3416"
+    },
+    "physician_information": {
+        "physician_name": "Dr. Lisa Lauren",
+        "specialty": "Oncology",
+        "physician_contact": {
+            "office_phone": "555-426-7898",
+            "fax": "555-426-7899",
+            "office_address": "1423 Miracle Drive, New York, NY 21023"
+        }
+    },
+    "clinical_information": {
+        "diagnosis": "High-grade osteosarcoma of the distal femur (post surgical resection)",
+        "icd_10_code": "C40.2",
+        "prior_treatments_and_results": "Neoadjuvant chemotherapy (Doxorubicin 75 mg/m2 q21d, Cisplatin 120 mg/m2 q21d, Methotrexate 12 g/m2 q14d) given March–April 2024 (3 cycles). Limb-sparing surgical resection of the distal femur with prosthetic implant on May 1, 2024. Adjuvant chemotherapy May–September 2024 (6 cycles) with reduced-dose Doxorubicin 37.5 mg/m2 q21d, Cisplatin 90 mg/m2 q21d, Methotrexate 12 g/m2 q14d, and Ifosfamide 9 g/m2 q21d with Mesna. No imaging response or post-treatment tumor status documented in the note.",
+        "specific_drugs_taken_and_failures": null,
+        "alternative_drugs_required": null,
+        "lab_results": null,
+        "lab_summary": "Key abnormalities: pancytopenia with leukopenia (WBC 2.5 x10^9/L), anemia (Hgb 9.5 g/dL) and thrombocytopenia (platelets 75 x10^9/L). Hypoalbuminemia (albumin 3.0 g/dL). Liver tests are abnormal with mild–moderate transaminase elevation (AST 55 U/L, ALT 60 U/L) and elevated alkaline phosphatase (ALP 150 U/L), suggesting mixed hepatocellular and cholestatic injury. Markedly elevated LDH (450 U/L). Hyperferritinemia (ferritin 800 ng/mL), which can reflect inflammation, iron overload, or macrophage activation/HLH. Electrolytes, renal function, glucose, and coagulation studies are within normal limits. Recommended next steps: peripheral smear and reticulocyte count, hemolysis labs (bilirubin, haptoglobin), inflammatory markers, viral serologies (hepatitis, HIV), formal iron studies (TIBC/transferrin), abdominal imaging for hepatosplenomegaly, and consideration of bone marrow evaluation based on clinical context.",
+        "imaging_results": "CT chest (09/04/24, noncontrast): 1.5 cm rounded, spiculated lesion in the left lower lobe; multiple additional small pulmonary nodules up to 5 mm in both lungs; no significant mediastinal or hilar lymphadenopathy; no pleural effusion or pleural thickening. MRI left femur (09/04/24): new irregular mass at prior resection site measuring ~4.0 cm with heterogeneous signal and T2 hyperintense areas consistent with edema/possible necrosis; tumor extends into surrounding soft tissues with irregular margins and adjacent muscle edema; extensive bone marrow edema surrounding the lesion; thickening of surrounding soft tissues consistent with desmoplastic reaction; no new suspicious lesions in the proximal femur or surrounding structures. X‑ray left knee (AP and lateral, 03/01/24): aggressive-appearing lytic lesion in the distal femur ~5 cm with cortical destruction and soft tissue mass extending into the knee joint; periosteal reaction with sunburst pattern; surrounding soft tissues thickened; no significant joint effusion; no evidence of metastatic disease in surrounding bones or soft tissues. MRI findings listed for 03/02/24: no details provided.",
+        "symptom_severity_and_impact": "Patient reports left thigh pain at the site of prior resection, and 2 weeks of non-productive cough and fatigue. Severity not quantified; symptoms are symptomatic but no documented functional limitations or systemic signs (no fever, no dyspnea).",
+        "prognosis_and_risk_if_not_approved": null,
+        "clinical_rationale_for_urgency": null,
+        "treatment_request": {
+            "name_of_medication_or_procedure": "Everolimus",
+            "code_of_medication_or_procedure": "CD40.0",
+            "dosage": "5mg/m2 once daily",
+            "duration": null,
+            "rationale": "Metastatic Osteosarcoma",
+            "presumed_eligibility": null
+        }
+    }
+}

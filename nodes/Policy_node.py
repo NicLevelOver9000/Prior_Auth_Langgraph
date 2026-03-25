@@ -132,32 +132,34 @@ Policy Chunks:
     return json.loads(response)
 
 
-# ----------------------------
-# RUN POLICY ENGINE
-# ----------------------------
-def run_policy_engine():
+def policy_node(state):
 
-    with open("output/final_prior_auth.json", "r") as f:
-        final_json = json.load(f)
+    print("\nInside Policy Node")
 
-    # 🔥 Better query
+    final_json = state.get("final_prior_auth")
+
+    if not final_json:
+        print("No final JSON found")
+        return {}
+
+    # ----------------------------
+    # Build Query
+    # ----------------------------
     query = build_query(final_json)
 
-    print("\nSEARCH QUERY:\n", query)
-
+    # ----------------------------
+    # Retrieve Policies
+    # ----------------------------
     policies = retrieve_policies(query)
 
-    print(f"\nRetrieved {len(policies)} policy chunks\n")
-
-    # 🔍 DEBUG: show retrieved chunks
-    for i, p in enumerate(policies):
-        print(f"\n--- POLICY {i+1} ({p['source']}) ---")
-        print(p["content"][:200])
-
+    # ----------------------------
+    # Evaluate
+    # ----------------------------
     decision = evaluate_policy(final_json, policies)
 
-    print("\nFINAL DECISION:\n")
-    print(json.dumps(decision, indent=2, ensure_ascii=False))
+    # ----------------------------
+    # Save Output (optional)
+    # ----------------------------
     filename = f"output/policy_decision_{datetime.now().strftime('%Y%m%d_%H%M%S')}.json"
 
     final_output = {
@@ -169,11 +171,6 @@ def run_policy_engine():
     with open(filename, "w", encoding="utf-8") as f:
         json.dump(final_output, f, indent=4, ensure_ascii=False)
 
-    return decision
-
-
-# ----------------------------
-# MAIN
-# ----------------------------
-if __name__ == "__main__":
-    run_policy_engine()
+    return {
+        "final_decision": decision
+    }
